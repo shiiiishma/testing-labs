@@ -1,0 +1,201 @@
+\documentclass{article}[14pt]
+\usepackage[T2A]{fontenc}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{tocloft}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{wrapfig}
+\usepackage[english, russian]{babel}
+\geometry{
+	a4paper,
+	top=20mm, 
+	right=25mm, 
+	bottom=25mm, 
+	left=25mm
+}
+\usepackage{amssymb}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\usepackage{ dsfont }
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{listingsutf8}
+\usepackage{pdfpages}
+\usepackage{lipsum}
+\usepackage{makecell}
+\usepackage{float}
+\usepackage{longtable}
+
+
+\lstset{ 
+	basicstyle=\ttfamily\small,
+	keywordstyle=\color{blue},
+	inputencoding=utf8,              
+	extendedchars=true,
+	stringstyle=\color{red}
+	commentstyle=\color{green},
+	showspaces=false,         
+	showstringspaces=false,  
+	numbers=left,              
+	numberstyle=\tiny\color{gray},
+	breaklines=true,          
+	frame=single,           
+	captionpos=b,             
+	tabsize=4,
+	escapeinside={(*@}{@*)}, % для работы с нестандартными текстами
+	literate={ё}{{\"o}}1 {Ё}{{\"O}}1 {«}{{\guillemotleft}}1 {»}{{\guillemotright}}1
+	{А}{{\CYRA}}1 {Б}{{\CYRB}}1 {В}{{\CYRV}}1 {Г}{{\CYRG}}1 {Д}{{\CYRD}}1 
+	{Е}{{\CYRE}}1 {Ж}{{\CYRZH}}1 {З}{{\CYRZ}}1 {И}{{\CYRI}}1 {Й}{{\CYRISHRT}}1 
+	{К}{{\CYRK}}1 {Л}{{\CYRL}}1 {М}{{\CYRM}}1 {Н}{{\CYRN}}1 {О}{{\CYRO}}1 
+	{П}{{\CYRP}}1 {Р}{{\CYRR}}1 {С}{{\CYRS}}1 {Т}{{\CYRT}}1 {У}{{\CYRU}}1 
+	{Ф}{{\CYRF}}1 {Х}{{\CYRH}}1 {Ц}{{\CYRC}}1 {Ч}{{\CYRCH}}1 {Ш}{{\CYRSH}}1 
+	{Щ}{{\CYRSHCH}}1 {Ъ}{{\CYRHRDSN}}1 {Ы}{{\CYRERY}}1 {Ь}{{\CYRSFTSN}}1 
+	{Э}{{\CYREREV}}1 {Ю}{{\CYRYU}}1 {Я}{{\CYRYA}}1 
+	{а}{{\cyra}}1 {б}{{\cyrb}}1 {в}{{\cyrv}}1 {г}{{\cyrg}}1 {д}{{\cyrd}}1 
+	{е}{{\cyre}}1 {ж}{{\cyrzh}}1 {з}{{\cyrz}}1 {и}{{\cyri}}1 {й}{{\cyrishrt}}1 
+	{к}{{\cyrk}}1 {л}{{\cyrl}}1 {м}{{\cyrm}}1 {н}{{\cyrn}}1 {о}{{\cyro}}1 
+	{п}{{\cyrp}}1 {р}{{\cyrr}}1 {с}{{\cyrs}}1 {т}{{\cyrt}}1 {у}{{\cyru}}1 
+	{ф}{{\cyrf}}1 {х}{{\cyrh}}1 {ц}{{\cyrc}}1 {ч}{{\cyrch}}1 {ш}{{\cyrsh}}1 
+	{щ}{{\cyrshch}}1 {ъ}{{\cyrhrdsn}}1 {ы}{{\cyrery}}1 {ь}{{\cyrsftsn}}1 
+	{э}{{\cyrerev}}1 {ю}{{\cyryu}}1 {я}{{\cyrya}}1               
+}
+\begin{document}
+	
+	\begin{flushright}
+		{\Large{Шишмаков Владимир Олегович, гр. №5130201/30101}}
+	\end{flushright}
+
+    \begin{center}
+        {\LARGE{\textbf{Программный модуль 2}}}
+    \end{center}
+
+    \large
+
+    \section{Описание}
+
+    \noindent \textbf{Название программы:} Генерация случайных квадратных матриц одинаковой размерности 
+    и их перемножение.
+
+    \noindent \textbf{Дано:} Целое положительное число $n$ --- размер квадратных матриц.
+
+    \noindent \textbf{Требуется:} Сгененрировать 2 случайных квадратных матрицы размерности $n \times n$ и перемножить их.
+
+    \noindent \textbf{Выходные данные:} Выведенная матрица-результат на экран.
+
+    \noindent \textbf{Ограничения:} $n > 0$.
+
+    \noindent \textbf{Спецификация:}
+
+    {\large{
+    \begin{longtable}{|p{0.3cm}|p{1.1cm}|p{8cm}|p{6cm}|}
+    \hline
+    \textbf{№} & \textbf{Вход} & \textbf{Выход} & \textbf{Реакция программы} \\ \hline
+    1 & $n > 0$ &  Вывод матрицы C & Программа генерирует две матрицы A и B, соответственно, после чего последовательно 
+    выводит их. Вычисляется результирующая матрица C путем умножения матриц A и B и выводится на экран. \\ \hline
+    2 & $n = 0$ & Вывод исключения вида java.lang.ArrayIndexOutOfBoundsException & Программа обнаружает ошибку
+    и <<выбрасывает>> исключение. \\ \hline
+    3 & $n < 0$ & Вывод исключения вида java.lang.NegativeArraySizeException & Программа обнаружает ошибку и 
+    <<выбрасывает>> исключение. \\ \hline
+    \end{longtable}}}
+
+    \pagebreak
+
+    \section{Блок-схема}
+
+    \includegraphics[width=0.8\textwidth]{scheme.png}
+    
+
+    \pagebreak
+
+    \section{Исходный код}
+
+    \begin{lstlisting}
+import java.util.Random;
+
+public class MatrixMult {
+
+    // Метод генерации случайной матрицы
+    public static double[][] generateMatrix(int rows, int cols) {
+        double[][] matrix = new double[rows][cols];
+        Random rand = new Random();
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                matrix[i][j] = rand.nextDouble();
+            }
+        }
+        return matrix;
+    }
+
+    // Проверка, что матрица не null
+    public static boolean isNotNull(double[][] matrix) {
+        return matrix != null;
+    }
+
+    // Простой метод умножения матриц
+    public static double[][] multiply(double[][] firstMatrix, double[][] secondMatrix) {
+        int n1 = firstMatrix.length;
+        int m1 = firstMatrix[0].length;
+        int n2 = secondMatrix.length;
+        int m2 = secondMatrix[0].length;
+
+        if (m1 != n2) {
+            throw new IllegalArgumentException("Размерности матриц не совпадают для умножения");
+        }
+
+        double[][] result = new double[n1][m2];
+
+        for (int i = 0; i < n1; i++) {
+            for (int j = 0; j < m2; j++) {
+                double sum = 0;
+                for (int k = 0; k < m1; k++) {
+                    sum += firstMatrix[i][k] * secondMatrix[k][j];
+                }
+                result[i][j] = sum;
+            }
+        }
+        return result;
+    }
+
+    public static void printMatrix(double[][] A) {
+        if (isNotNull(A)) {
+            for (int i = 0; i < A.length; i++) {
+                for (int j = 0; j < A[0].length; j++) {
+                    System.out.print(A[i][j] + "\t");
+                }
+                System.out.println();
+            }
+        }
+        else {
+            System.out.println("It is null matrix!");
+        }
+        System.out.println();
+    }
+
+    public static void main(String[] args) {
+        int n = 5;
+
+        double[][] A = generateMatrix(n, n);
+        double[][] B = generateMatrix(n, n);
+        
+        System.out.println("First matrix:");
+        printMatrix(A);
+
+        System.out.println("Second matrix:");
+        printMatrix(B);
+
+        double[][] C = multiply(A, B);
+
+        System.out.println("Multiply matrix:");
+        printMatrix(C);
+
+    }
+
+}
+
+    \end{lstlisting}
+
+\end{document}
