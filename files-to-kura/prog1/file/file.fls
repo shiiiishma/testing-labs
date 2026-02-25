@@ -268,23 +268,9 @@ INPUT ./scheme.png
 INPUT ./scheme.png
 INPUT ./scheme.png
 INPUT ./scheme.png
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt1200.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt0900.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm0900.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm0500.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tctt0900.tfm
 INPUT file.aux
 INPUT ./file.out
 INPUT ./file.out
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tctt0900.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tctt0900.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt0900.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt0900.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0500.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0500.pk
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk

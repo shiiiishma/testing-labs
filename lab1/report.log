@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.9)  17 FEB 2026 22:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.9)  25 FEB 2026 13:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/user/study/testing/testing-labs/files-to-kura/prog1/file/file.tex
-(/Users/user/study/testing/testing-labs/files-to-kura/prog1/file/file.tex
+**/Users/user/study/testing/testing-labs/lab1/report.tex
+(/Users/user/study/testing/testing-labs/lab1/report.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
@@ -765,11 +765,11 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \c@LT@tables=\count365
 \c@LT@chunks=\count366
 \LT@p@ftn=\toks37
-) (file.aux
+) (report.aux
 Package babel Info: 'russian' activates 'russian' shorthands.
-(babel)             Reported on input line 13.
+(babel)             Reported on input line 8.
 )
-\openout1 = `file.aux'.
+\openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
@@ -827,9 +827,9 @@ LaTeX Font Info:    ... okay on input line 66.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 66.
-(file.out) (file.out)
+(report.out) (report.out)
 \@outlinefile=\write4
-\openout4 = `file.out'.
+\openout4 = `report.out'.
 
  (/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -874,45 +874,252 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 82.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 127.
  (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 127.
  (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \hbox (0.10323pt too wide) in paragraph at lines 123--133
+[]   \T2A/cmr/m/n/14.4 <<$[]$>>$[]$ 2026 ^^e3.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--133
+
+ []
+
+
 
 [1
 
-{/Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}]
-<scheme.png, id=27, 419.5675pt x 1054.94125pt>
-File: scheme.png Graphic file (type png)
-<use scheme.png>
-Package pdftex.def Info: scheme.png  used on input line 116.
-(pdftex.def)             Requested size: 273.14923pt x 686.79831pt.
+{/Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] (report.toc)
+\tf@toc=\write5
+\openout5 = `report.toc'.
 
 
-[2 <./scheme.png>] (file.aux)
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+Overfull \hbox (3.32864pt too wide) in paragraph at lines 258--260
+[]\T2A/cmr/m/n/14.4 ^^c7^^e0^^e4^^e0^^f7^^e0 ^^ec^^ee-^^e4^^e5-^^f0^^e0-^^f2^^ee-^^f0^^e0 ^^V-- ^^ef^^ee^^e4-^^e4^^e5^^f0-^^e6^^e8-^^e2^^e0^^f2^^fc ^^ee^^e1-^^f1^^f3^^e6-^^e4^^e5-^^ed^^e8^^e5 ^^e2 ^^ef^^f0^^ee-^^e4^^f3^^ea-^^f2^^e8^^e2-^^ed^^ee^^ec ^^ea^^eb^^fe-
+ []
+
+<questions1.png, id=111, 816.04875pt x 376.40625pt>
+File: questions1.png Graphic file (type png)
+<use questions1.png>
+Package pdftex.def Info: questions1.png  used on input line 289.
+(pdftex.def)             Requested size: 455.24411pt x 209.98196pt.
+
+
+[7]
+<questions2.png, id=119, 772.8875pt x 633.36626pt>
+File: questions2.png Graphic file (type png)
+<use questions2.png>
+Package pdftex.def Info: questions2.png  used on input line 294.
+(pdftex.def)             Requested size: 455.24411pt x 373.06433pt.
+<questions3.png, id=120, 720.6925pt x 443.6575pt>
+File: questions3.png Graphic file (type png)
+<use questions3.png>
+Package pdftex.def Info: questions3.png  used on input line 299.
+(pdftex.def)             Requested size: 455.24411pt x 280.24359pt.
+
+
+[8 <./questions1.png> <./questions2.png>]
+<questions4.png, id=129, 687.56876pt x 570.13pt>
+File: questions4.png Graphic file (type png)
+<use questions4.png>
+Package pdftex.def Info: questions4.png  used on input line 304.
+(pdftex.def)             Requested size: 455.24411pt x 377.48749pt.
+
+
+[9 <./questions3.png> <./questions4.png>]
+Overfull \hbox (17.32362pt too wide) in paragraph at lines 322--323
+[]\T2A/cmr/m/n/14.4 ^^ed^^e5^^ee^^ef^^fb^^f2^^ed^^ee^^e3^^ee ^^ef^^f0^^ee-^^e3^^f0^^e0^^ec-^^ec^^e8-^^f1^^f2^^e0 (^^e2^^e7^^e3^^eb^^ff^^e4 ^^ea^^ee-^^f2^^ee-^^f0^^ee-^^e3^^ee ^^e5^^f9^^e5 ^^ed^^e5 ^^f1^^f4^^ee^^f0-^^ec^^e8-^^f0^^ee-^^e2^^e0^^ed ^^ef^^f0^^e5^^e4^^fb-
+ []
+
+
+
+[10]
+Overfull \hbox (4.65294pt too wide) in paragraph at lines 348--354
+[]\T2A/cmr/m/n/14.4 ^^c4^^eb^^ff ^^e1^^ee^^eb^^fc-^^f8^^e8^^ed-^^f1^^f2^^e2^^e0 ^^f1^^ef^^e5-^^f6^^e8-^^e0-^^eb^^e8-^^f1^^f2^^ee^^e2 ^^ed^^e0-^^f1^^f2^^ee^^eb^^fc-^^ed^^e0^^ff ^^ef^^f0^^ee-^^e2^^e5^^f0-^^ea^^e0 ^^ee^^ea^^e0-^^e7^^fb-^^e2^^e0-^^e5^^f2-^^f1^^ff ^^f1^^f0^^e0^^e2-
+ []
+
+
+
+[11]
+
+[12]
+
+[13]
+Overfull \hbox (3.80136pt too wide) in paragraph at lines 431--431
+[]|\T2A/cmr/bx/n/12 ^^9d| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
+[]|$\OML/cmm/m/it/12 a \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (1.99773pt too wide) in paragraph at lines 432--432
+\OT1/cmr/m/n/12 15000000000; \OML/cmm/m/it/12 b \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (3.74779pt too wide) in paragraph at lines 432--432
+\OT1/cmr/m/n/12 1000000000; \OML/cmm/m/it/12 M \OT1/cmr/m/n/12 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
+\OT1/cmr/m/n/12 2111; \OML/cmm/m/it/12 M \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (1.63033pt too wide) in alignment at lines 429--453
+ [] [] [] [] 
+ []
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 459.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 459.
+(/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+Overfull \hbox (24.20685pt too wide) in paragraph at lines 645--645
+|[]\T2A/cmr/bx/n/24.88 ^^ce^^ef^^e8^^f1^^e0^^ed^^e8^^e5 ^^ef^^f0^^ee-^^e2^^e5-^^e4^^e5^^ed-^^ed^^ee^^e9 ^^e8^^ed-^^f1^^ef^^e5^^ea-^^f6^^e8^^e8 ^^ea^^ee-
+ []
+
+
+Overfull \hbox (11.8814pt too wide) in paragraph at lines 666--669
+[]\T2A/cmr/bx/n/14.4 ^^c8^^f1^^ef^^ee^^eb^^fc^^e7^^f3^^fe^^f2^^f1^^ff ^^eb^^e8 ^^ef^^e5-^^f0^^e5-^^ec^^e5^^ed-^^ed^^fb^^e5 ^^f1 ^^ed^^e5^^e8-^^ed^^e8-^^f6^^e8-^^e0-^^eb^^e8-^^e7^^e8-^^f0^^ee-^^e2^^e0^^ed-^^ed^^fb-^^ec^^e8 ^^e7^^ed^^e0-
+ []
+
+
+
+[18]
+
+[19]
+Overfull \hbox (49.77977pt too wide) in paragraph at lines 726--729
+\T2A/cmr/m/n/14.4 ^^c4^^e0, ^^fd^^f2^^ee ^^e2^^ee^^e7-^^ec^^ee^^e6-^^ed^^ee. ^^c2 ^^f4^^f3^^ed^^ea-^^f6^^e8^^e8 \T2A/cmtt/m/n/14.4 div \T2A/cmr/m/n/14.4 ^^e5^^f1^^f2^^fc ^^ef^^f0^^ee-^^e2^^e5^^f0-^^ea^^e0: \T2A/cmtt/m/n/14.4 if compare(second_value,
+ []
+
+
+
+[20]
+Overfull \hbox (36.04543pt too wide) in paragraph at lines 754--757
+\T2A/cmr/m/n/14.4 ^^c4^^e0, ^^e2^^f1^^e5 ^^f1^^ef^^e8^^f1-^^ea^^e8 ^^e8^^ed^^e8-^^f6^^e8-^^e0-^^eb^^e8-^^e7^^e8-^^f0^^f3-^^fe^^f2-^^f1^^ff ^^ff^^e2-^^ed^^ee (^^ed^^e0-^^ef^^f0^^e8-^^ec^^e5^^f0, \T2A/cmtt/m/n/14.4 res = [0] * max_len\T2A/cmr/m/n/14.4 ). 
+ []
+
+
+Overfull \hbox (6.27887pt too wide) in paragraph at lines 766--769
+\T2A/cmr/m/n/14.4 ^^c2^^ed^^f3^^f2^^f0^^e8 ^^f4^^f3^^ed^^ea-^^f6^^e8^^e9 ^^ef^^e0-^^f0^^e0-^^ec^^e5^^f2-^^f0^^fb ^^ed^^e0-^^e7^^fb-^^e2^^e0-^^fe^^f2-^^f1^^ff \T2A/cmtt/m/n/14.4 first_value\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 second_value\T2A/cmr/m/n/14.4 ,
+ []
+
+
+Overfull \hbox (1.08923pt too wide) in paragraph at lines 770--773
+\T2A/cmr/m/n/14.4 ^^cd^^e5^^f2, ^^f1^^f0^^e0^^e2-^^ed^^e8-^^e2^^e0-^^fe^^f2-^^f1^^ff ^^f2^^ee^^eb^^fc-^^ea^^ee ^^f1^^ef^^e8^^f1-^^ea^^e8 ^^f6^^e8^^f4^^f0 ^^f1 ^^ef^^ee-^^ec^^ee-^^f9^^fc^^fe ^^f4^^f3^^ed^^ea-^^f6^^e8^^e8 \T2A/cmtt/m/n/14.4 compare\T2A/cmr/m/n/14.4 ,
+ []
+
+
+
+[21]
+Overfull \hbox (23.29521pt too wide) in paragraph at lines 826--829
+[]\T2A/cmr/bx/n/14.4 ^^d1^^ee^^e3^^eb^^e0^^f1^^f3^^fe^^f2^^f1^^ff ^^eb^^e8 ^^f1^^ef^^e5-^^f6^^e8-^^f4^^e8-^^ea^^e0-^^f6^^e8^^e8 ^^f4^^ee^^f0-^^ec^^e0-^^f2^^e0 ^^f1 ^^e8^^ed-^^f1^^f2^^f0^^f3^^ea-^^f6^^e8-^^ff-^^ec^^e8 ^^e2^^e2^^ee^^e4^^e0-
+ []
+
+
+
+[22]
+Overfull \hbox (5.3822pt too wide) in paragraph at lines 862--865
+\T2A/cmr/m/n/14.4 ^^c2^^f1^^e5 ^^ef^^e5-^^f0^^e5-^^ec^^e5^^ed-^^ed^^fb^^e5 ^^e8^^f1-^^ef^^ee^^eb^^fc-^^e7^^f3-^^fe^^f2-^^f1^^ff. ^^cf^^e0-^^f0^^e0-^^ec^^e5^^f2-^^f0^^fb \T2A/cmtt/m/n/14.4 M \T2A/cmr/m/n/14.4 ^^e8 \T2A/cmtt/m/n/14.4 N \T2A/cmr/m/n/14.4 ^^e2 ^^f4^^f3^^ed^^ea-^^f6^^e8^^e8 \T2A/cmtt/m/n/14.4 normalize
+ []
+
+
+Overfull \hbox (14.28906pt too wide) in paragraph at lines 874--877
+\T2A/cmr/m/n/14.4 ^^c2^^f1^^e5 ^^f7^^e5-^^f2^^fb-^^f0^^e5 ^^e0^^f0^^e8^^f4-^^ec^^e5-^^f2^^e8-^^f7^^e5-^^f1^^ea^^e8^^e5 ^^ee^^ef^^e5-^^f0^^e0-^^f6^^e8^^e8 ^^f0^^e5-^^e0-^^eb^^e8-^^e7^^ee-^^e2^^e0-^^ed^^fb. ^^ce^^f2-^^f1^^f3^^f2-^^f1^^f2^^e2^^f3-^^e5^^f2 ^^f4^^f3^^ed^^ea-
+ []
+
+
+
+[23]
+
+[24]
+Overfull \hbox (2.47887pt too wide) in paragraph at lines 946--947
+[]\T2A/cmr/m/n/14.4 ^^c8^^f1^^ef^^ee^^eb^^fc^^e7^^ee^^e2^^e0^^ed^^fb ^^e1^^ee-^^eb^^e5^^e5 ^^ee^^ef-^^f2^^e8-^^ec^^e0^^eb^^fc-^^ed^^fb^^e5 ^^e0^^eb-^^e3^^ee-^^f0^^e8^^f2-^^ec^^fb ^^e2 ^^f4^^f3^^ed^^ea-^^f6^^e8-^^ff^^f5, ^^f7^^f2^^ee ^^f3^^ec^^e5^^ed^^fc-
+ []
+
+
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31] (report.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
-Package rerunfilecheck Info: File `file.out' has not changed.
-(rerunfilecheck)             Checksum: 51CC744E424F8B124764C98D64ED789A;227.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 64EFB7B17E5FFDE6AF5C3E2D6B9EE5F8;2953.
  ) 
 Here is how much of TeX's memory you used:
- 19869 strings out of 468085
- 326269 string characters out of 5422978
- 850606 words of memory out of 5000000
- 48250 multiletter control sequences out of 15000+600000
- 638370 words of font info for 66 fonts, out of 8000000 for 9000
+ 20865 strings out of 468085
+ 338305 string characters out of 5422978
+ 1393610 words of memory out of 5000000
+ 48686 multiletter control sequences out of 15000+600000
+ 645946 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,494b,495s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on file.pdf (2 pages, 104140 bytes).
+ 75i,8n,79p,776b,2119s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt0900.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0500.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (31 pages, 2541244 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1458 PDF objects out of 1728 (max. 8388607)
+ 551 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 

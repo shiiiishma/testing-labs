@@ -1,7 +1,7 @@
-PWD /Users/user/study/testing/testing-labs/files-to-kura/prog2/file
+PWD /Users/user/study/testing/testing-labs/lab1
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /Users/user/study/testing/testing-labs/files-to-kura/prog2/file/file.tex
-OUTPUT file.log
+INPUT /Users/user/study/testing/testing-labs/lab1/report.tex
+OUTPUT report.log
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
@@ -199,18 +199,18 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fl
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
-INPUT ./file.aux
-INPUT ./file.aux
-INPUT file.aux
-OUTPUT file.aux
-INPUT ./file.out
-INPUT ./file.out
-INPUT file.out
-INPUT file.out
-OUTPUT file.pdf
-INPUT ./file.out
-INPUT ./file.out
-OUTPUT file.out
+INPUT ./report.aux
+INPUT ./report.aux
+INPUT report.aux
+OUTPUT report.aux
+INPUT ./report.out
+INPUT ./report.out
+INPUT report.out
+INPUT report.out
+OUTPUT report.pdf
+INPUT ./report.out
+INPUT ./report.out
+OUTPUT report.out
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
@@ -230,22 +230,13 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pd
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/lscape.sty
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/lscape.sty
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm1440.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm1728.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx1728.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm1200.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx1440.tfm
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx1200.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm1200.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm1728.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
@@ -260,30 +251,103 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfon
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
-INPUT ./scheme.png
-INPUT ./scheme.png
-INPUT ./scheme.png
-INPUT ./scheme.png
-INPUT ./scheme.png
-INPUT ./scheme.png
-INPUT ./scheme.png
-INPUT file.aux
-INPUT ./file.out
-INPUT ./file.out
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx2074.tfm
+INPUT ./report.toc
+INPUT ./report.toc
+INPUT report.toc
+OUTPUT report.toc
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm2488.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx2488.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1440.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm2074.tfm
+INPUT ./questions1.png
+INPUT ./questions1.png
+INPUT ./questions1.png
+INPUT ./questions1.png
+INPUT ./questions1.png
+INPUT ./questions1.png
+INPUT ./questions1.png
+INPUT ./questions2.png
+INPUT ./questions2.png
+INPUT ./questions2.png
+INPUT ./questions2.png
+INPUT ./questions2.png
+INPUT ./questions2.png
+INPUT ./questions2.png
+INPUT ./questions3.png
+INPUT ./questions3.png
+INPUT ./questions3.png
+INPUT ./questions3.png
+INPUT ./questions3.png
+INPUT ./questions3.png
+INPUT ./questions3.png
+INPUT ./questions4.png
+INPUT ./questions4.png
+INPUT ./questions4.png
+INPUT ./questions4.png
+INPUT ./questions4.png
+INPUT ./questions4.png
+INPUT ./questions4.png
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx1200.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt1440.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt0900.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm0900.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm0500.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt1000.tfm
+INPUT report.aux
+INPUT ./report.out
+INPUT ./report.out
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt0900.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt0900.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0500.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0500.pk
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk
-INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
