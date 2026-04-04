@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1773171551.13117 "/Users/user/study/testing/testing-labs/lab2/report/report.tex" "report.pdf" "report" 1773171552.69759 0
+["pdflatex"] 1775328583.09207 "/Users/user/study/testing/testing-labs/lab2/report/report.tex" "report.pdf" "report" 1775328584.63591 0
   "../diagram2.png" 1773168733.01708 48110 6e1a31937402f7e6dddf2d0645f17d93 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1440.tfm" 1762635951.4133 1460 05250f74aea2bdcfe9d6766811b8b7b2 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1762635940.37062 1004 54797486969f23fa377b128694d548df ""
@@ -84,7 +84,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/tabularx.sty" 1762635954.52136 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1762635967.9851 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1762635968.06397 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "/Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1762713304.40492 81068 299f700eb05b1217173e62b88b513bd0 ""
+  "/Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1773953427.42731 81068 299f700eb05b1217173e62b88b513bd0 ""
   "/Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk" 1762636243.22512 16968 349b5fafab04334ae21c07e5e1f2706a ""
   "/Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk" 1762713982.7794 23468 4ab1e8b6165aa0cdeb1624e74ed8ca88 ""
   "/Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1762636250.60535 36852 4424ed8bc7ad51b65ee645892c629957 ""
@@ -152,15 +152,15 @@
   "/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tocloft/tocloft.sty" 1762636152.00672 37263 93f426e13c0c30a57da0f268ebb130e2 ""
   "/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/upquote/upquote.sty" 1762636202.6705 1088 c352a232e0e0bfae98e68b206e4febe5 ""
   "/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty" 1762636197.39981 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "/Users/user/study/testing/testing-labs/lab2/report/report.tex" 1773171548.89305 66463 45605f5ca7a1fcee16f6960b34d7d408 ""
+  "/Users/user/study/testing/testing-labs/lab2/report/report.tex" 1775328582.5434 66716 ac6a591841ce0ee9cd8a748c0e26aced ""
   "pics/notaion.png" 1772192774.25822 183557 b543a04b76c8b9f46b597b73135ef812 ""
   "pics/notation2.png" 1772194512.62422 179912 630e55ca95757fa5f0fc38fc238af49d ""
-  "pics/scheme1.png" 1773082424.86901 124078 ab99ad390f66e86c93485f3e6fdb93d2 ""
-  "pics/scheme2.png" 1773169896.39322 148491 d7dd9bc5c2049d4212a3c63a4eb5db7b ""
-  "report.aux" 1773171552.48159 15207 bf8c57d7cc9ac0493e6079ec20f190fc "pdflatex"
-  "report.out" 1773171552.48377 7723 c3553ddef037114bf5fdf61a4afe06ec "pdflatex"
-  "report.tex" 1773171548.89305 66463 45605f5ca7a1fcee16f6960b34d7d408 ""
-  "report.toc" 1773171552.48423 7630 c254277cb5c54e0a3384ae838f584fff "pdflatex"
+  "pics/scheme1.png" 1775316967.97581 66454 86bd99d71047b968169a1cab41341ca8 ""
+  "pics/scheme2.png" 1775328400.78811 107227 01f9e5971790da1db8fb829ea0735ed1 ""
+  "report.aux" 1775328584.42146 15207 b3ffc8b1d23d1e7738635e924f6b42a3 "pdflatex"
+  "report.out" 1775328584.4238 7723 c3553ddef037114bf5fdf61a4afe06ec "pdflatex"
+  "report.tex" 1775328582.5434 66716 ac6a591841ce0ee9cd8a748c0e26aced ""
+  "report.toc" 1775328584.42421 7630 5bd792efb3a1c44f33016beb601ada1b "pdflatex"
   (generated)
   "report.aux"
   "report.log"
