@@ -1,0 +1,682 @@
+\documentclass{article}[14pt]
+\usepackage[T2A]{fontenc}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{tocloft}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{wrapfig}
+\usepackage[english, russian]{babel}
+\geometry{
+	a4paper,
+	top=20mm, 
+	right=25mm, 
+	bottom=25mm, 
+	left=25mm
+}
+\usepackage{amssymb}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\usepackage{ dsfont }
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{listingsutf8}
+\usepackage{pdfpages}
+\usepackage{lipsum}
+\usepackage{makecell}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{tabularx}
+
+
+\lstset{ 
+	basicstyle=\ttfamily\small,
+	keywordstyle=\color{blue},
+	inputencoding=utf8,              
+	extendedchars=true,
+	stringstyle=\color{red}
+	commentstyle=\color{green},
+	showspaces=false,         
+	showstringspaces=false,  
+	numbers=left,              
+	numberstyle=\tiny\color{gray},
+	breaklines=true,          
+	frame=single,           
+	captionpos=b,             
+	tabsize=4,
+	escapeinside={(*@}{@*)}, % для работы с нестандартными текстами
+	literate={ё}{{\"o}}1 {Ё}{{\"O}}1 {«}{{\guillemotleft}}1 {»}{{\guillemotright}}1
+	{А}{{\CYRA}}1 {Б}{{\CYRB}}1 {В}{{\CYRV}}1 {Г}{{\CYRG}}1 {Д}{{\CYRD}}1 
+	{Е}{{\CYRE}}1 {Ж}{{\CYRZH}}1 {З}{{\CYRZ}}1 {И}{{\CYRI}}1 {Й}{{\CYRISHRT}}1 
+	{К}{{\CYRK}}1 {Л}{{\CYRL}}1 {М}{{\CYRM}}1 {Н}{{\CYRN}}1 {О}{{\CYRO}}1 
+	{П}{{\CYRP}}1 {Р}{{\CYRR}}1 {С}{{\CYRS}}1 {Т}{{\CYRT}}1 {У}{{\CYRU}}1 
+	{Ф}{{\CYRF}}1 {Х}{{\CYRH}}1 {Ц}{{\CYRC}}1 {Ч}{{\CYRCH}}1 {Ш}{{\CYRSH}}1 
+	{Щ}{{\CYRSHCH}}1 {Ъ}{{\CYRHRDSN}}1 {Ы}{{\CYRERY}}1 {Ь}{{\CYRSFTSN}}1 
+	{Э}{{\CYREREV}}1 {Ю}{{\CYRYU}}1 {Я}{{\CYRYA}}1 
+	{а}{{\cyra}}1 {б}{{\cyrb}}1 {в}{{\cyrv}}1 {г}{{\cyrg}}1 {д}{{\cyrd}}1 
+	{е}{{\cyre}}1 {ж}{{\cyrzh}}1 {з}{{\cyrz}}1 {и}{{\cyri}}1 {й}{{\cyrishrt}}1 
+	{к}{{\cyrk}}1 {л}{{\cyrl}}1 {м}{{\cyrm}}1 {н}{{\cyrn}}1 {о}{{\cyro}}1 
+	{п}{{\cyrp}}1 {р}{{\cyrr}}1 {с}{{\cyrs}}1 {т}{{\cyrt}}1 {у}{{\cyru}}1 
+	{ф}{{\cyrf}}1 {х}{{\cyrh}}1 {ц}{{\cyrc}}1 {ч}{{\cyrch}}1 {ш}{{\cyrsh}}1 
+	{щ}{{\cyrshch}}1 {ъ}{{\cyrhrdsn}}1 {ы}{{\cyrery}}1 {ь}{{\cyrsftsn}}1 
+	{э}{{\cyrerev}}1 {ю}{{\cyryu}}1 {я}{{\cyrya}}1               
+}
+\begin{document}
+	
+\thispagestyle{empty}
+\begin{center}
+	\Large {\bfseries МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ}
+	\\
+	\vspace{3mm}
+	Федеральное государственное автономное образовательное учреждение высшего образования <<Санкт-Петербургский политехнический университет Петра Великого>>
+	\\
+	\vspace{3mm}
+	Институт компьютерных наук и кибербезопасности
+	\\
+	\vspace{3mm}
+	Высшая школа технологий искусственного интеллекта
+	\\
+	\vspace{3mm}
+	Направление: 02.03.01 Математика и компьютерные науки
+	\\
+	\vspace{2cm}
+	\large{
+		Методы тестирования программного обеспечения}
+	\\
+	\LARGE{
+		Отчет по лабораторной работе №3\\
+		<<Статическое тестирование>>}
+\end{center}
+
+\vspace{5.5cm}
+\begin{flushleft}
+	\Large
+	Студент
+	\\
+	группы 5130201/30101
+	\\
+	\vspace{2cm}
+	\Large
+	Преподаватель
+	\\ 
+\end{flushleft}
+\vspace{-4.6cm}
+\begin{flushright}
+	\Large
+	\line(1,0){2cm}
+	\hspace{0.4cm}
+	Шишмаков В.О.
+	\\
+	\vspace{2,7cm}
+	\hspace{2cm}
+	\Large
+	\line(1,0){2cm}
+	\hspace{0.4cm}
+	Курочкин М. А.
+	\hspace{-0.1cm}
+	
+\end{flushright}
+
+\vspace{1cm}
+\hspace{9.8cm}
+{
+	\Large
+	\vspace{0.8cm}
+	<<\underline{\hspace{1cm}}>>\underline{\hspace{2.5cm}} 2026 г.
+}
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\begin{center} \large{Санкт-Петербург, 2026} \end{center}
+\pagebreak
+
+\titleformat{\section}
+{\Huge\bfseries}
+{\thesection\;}
+{0.65cm}
+{}
+\titleformat{\subsection}
+{\huge\bfseries}
+{\thesubsection\;}
+{0.65cm}
+{}
+\titleformat{\subsubsection}
+{\Large\bfseries}
+{\thesubsubsection\;}
+{0.65cm}
+{}
+\titlespacing*{\section}
+{0em}
+{1.5ex plus 1ex minus 0.2ex}
+{1.5ex plus 1ex minus 0.2ex}	
+
+\renewcommand*\contentsname{\huge{Содержание}}
+\Large{
+	\tableofcontents}
+\pagebreak
+
+
+\section*{Введение}
+\addcontentsline{toc}{section}{Введение}
+
+Долгое время большинство программистов полагало, что программы создаются только для выполнения на машинах и не рассчитаны на чтение людьми, 
+а единственным способом их проверки служит запуск кода на компьютере. Эта ситуация начала меняться в начале 1970-х годов благодаря тем 
+разработчикам, которые первыми поняли ценность просмотра кода как части процесса тестирования и отладки.
+
+Полезность вычитки кода определяется несколькими факторами: размер и сложность приложения, количество членов команды разработчиков, 
+временные рамки проекта (например, мягкие или жёсткие), а также, безусловно, квалификация и профессиональная культура команды программистов.
+
+Статический анализ кода представляет собой анализ исходного кода программного обеспечения, выполняемый без фактического запуска 
+исследуемых программ.
+
+Спрсcheck --- это инструмент статического анализа для языков C и C++, который предназначен для выявления проблем, не обнаруживаемых 
+компиляторами.
+
+\pagebreak
+
+\section{Постановка задачи}
+
+\noindent \textbf{Дано:} программный код на языке программирования \texttt{C++} (Построение словаря на основе хэш-функции и красно-черного дерева. Кодирование данных).
+
+\noindent \textbf{Требуется:} изучить метод статического анализа кода, провести статический анализ кода при помощи \texttt{CppCheck} версии 2.20.0.
+
+\pagebreak
+
+\section{Описание тестируемой программы}
+
+Название программы: нахождение кратчайшего пути между двумя вершинами графа методом обхода в ширину (BFS).
+ 
+\textbf{Дано:}
+ 
+\begin{itemize}
+    \item \texttt{n} --- количество вершин графа;
+    \item \texttt{oriented} --- тип графа: ориентированный или неориентированный;
+    \item \texttt{edges} --- список рёбер графа, задаваемых пользователем вручную (пары вершин);
+    \item \texttt{start} --- начальная вершина пути;
+    \item \texttt{end} --- конечная вершина пути.
+\end{itemize}
+ 
+\textbf{Требуется:} найти кратчайший путь (по числу рёбер) от вершины \texttt{start} до вершины \texttt{end} в заданном графе методом обхода в ширину и вывести последовательность вершин этого пути.
+ 
+\textbf{Ограничения} --- все параметры целые числа:
+ 
+\begin{itemize}
+    \item количество вершин $n \in [2;\, 10000]$
+    \item тип графа $\mathtt{oriented} \in \{y,\, n\}$
+    \item начальная вершина $\mathtt{start} \in [0;\, n-1]$
+    \item конечная вершина $\mathtt{end} \in [0;\, n-1],\quad \mathtt{end} \neq \mathtt{start}$
+    \item вершины рёбер $u, v \in [0;\, n-1],\quad u \neq v$
+\end{itemize}
+ 
+\subsection*{Спецификация}
+ 
+\begin{longtable}{|>{\raggedright\arraybackslash}p{3.2cm}
+                  |>{\raggedright\arraybackslash}p{4.5cm}
+                  |>{\raggedright\arraybackslash}p{7.3cm}|}
+\hline
+\textbf{Входные данные} & \textbf{Выходные данные} & \textbf{Реакция программы} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Входные данные} & \textbf{Выходные данные} & \textbf{Реакция программы} \\
+\hline
+\endhead
+ 
+$n < 2$ или $n > 10000$ &
+Сообщение: \textit{<<Incorrect input! Enter a number from 2 to 10000.>>} &
+Повторный запрос ввода от пользователя до тех пор, пока не будет введено корректное значение. \\
+\hline
+ 
+$\mathtt{oriented} \notin \{y, n, Y, N\}$ &
+Сообщение: \textit{<<Incorrect input! Enter y or n.>>} &
+Повторный запрос ввода от пользователя до тех пор, пока не будет введено корректное значение. \\
+\hline
+ 
+Ребро $u \notin [0;\, n{-}1]$ или $v \notin [0;\, n{-}1]$ &
+Сообщение: \textit{<<Incorrect input!>>} &
+Введённое ребро отклоняется; программа запрашивает следующее ребро. \\
+\hline
+ 
+Ребро $u = v$ &
+Сообщение: \textit{<<Self-loops are not allowed!>>} &
+Введённое ребро отклоняется; программа запрашивает следующее ребро. \\
+\hline
+ 
+Ввод $-1$ в поле <<From>> или <<To>> &
+Ввод рёбер завершается &
+Программа переходит к запросу начальной и конечной вершин. \\
+\hline
+ 
+$\mathtt{start} \notin [0;\, n{-}1]$ &
+Сообщение: \textit{<<Incorrect input! Enter a number from 0 to $n{-}1$.>>} &
+Повторный запрос ввода до тех пор, пока не будет введено корректное значение. \\
+\hline
+ 
+$\mathtt{end} \notin [0;\, n{-}1]$ или $\mathtt{end} = \mathtt{start}$ &
+Сообщение: \textit{<<Incorrect input! Enter a number from 0 to $n{-}1$ (not start).>>} &
+Повторный запрос ввода до тех пор, пока не будет введено корректное значение. \\
+\hline
+ 
+Все параметры корректны; путь от \texttt{start} до \texttt{end} существует &
+Сообщение вида: \textit{<<Shortest path ($k$ edges): $v_0 \to v_1 \to \dots \to v_k$>>} &
+Программа выполняет обход в ширину (BFS) по матрице смежности. Выводит последовательность вершин кратчайшего пути и число пройденных рёбер $k$. Завершает работу. \\
+\hline
+ 
+Все параметры корректны; путь от \texttt{start} до \texttt{end} \textbf{не существует} &
+Сообщение: \textit{<<No path from start to end.>>} &
+Программа сообщает об отсутствии пути и завершает работу. \\
+\hline
+ 
+\end{longtable}
+
+\pagebreak
+
+\section{Статический анализ кода}
+
+Статический анализ кода проводится без фактического запуска программы. Он исследует исходный код для обнаружения возможных ошибок, 
+уязвимостей и отклонений от принятых стандартов кодирования. Благодаря этому виду анализа разработчики могут находить проблемы на ранних 
+этапах создания программы, что позволяет существенно снизить затраты на их исправление в дальнейшем.
+
+Помимо прочего, статический анализ может включать проверку стиля оформления кода, что способствует поддержанию единообразия в проекте. 
+Это особенно важно в командах, где над одним проектом трудится несколько разработчиков. Инструменты статического анализа можно настраивать 
+на соответствие кода определённым стандартам — это помогает избегать типичных ошибок и повышает удобочитаемость кода.
+
+Многие подобные инструменты можно встраивать в процесс сборки, что позволяет автоматизировать проверку кода. Такой подход обеспечивает 
+непрерывный контроль качества и даёт разработчикам возможность больше сосредоточиться на написании кода, а не на его ручной проверке.
+
+\subsection*{Виды статического тестирования}
+
+\textbf{Статический анализ кода (Static Code Analysis)} — этот вид статического тестирования подразумевает исследование исходного кода. 
+Его главная цель — выявление потенциальных проблем, некорректных практик, структурных аномалий и нарушений стандартов кодирования. 
+Такие инструменты, как Lint, Pylint и ESLint, помогают автоматизировать этот процесс.
+
+\textbf{Обзоры кода (Code Reviews)} — данный вид статического тестирования заключается в анализе кода членами команды разработки или 
+приглашёнными экспертами. Обзоры кода позволяют находить проблемы и несоответствия стандартам, а также способствуют обмену знаниями и 
+опытом между участниками команды.
+
+\textbf{Анализ архитектуры (Architecture Analysis)} — при этом виде тестирования анализируется архитектура программного обеспечения: её 
+структура, связи между компонентами и соблюдение архитектурных принципов. Это помогает выявить проблемы, связанные с проектированием системы.
+
+\pagebreak
+
+\section{Описание приложения и среды разработки}
+
+CppCheck представляет собой мощное средство статического анализа кода, написанного на языках C и C++. Оно позволяет обнаруживать 
+разнообразные дефекты, уязвимости и места для оптимизации без необходимости компиляции или запуска программы. Проверка кода может 
+выполняться как через командную строку, так и с помощью графического интерфейса.
+
+\subsection*{Ключевые возможности CppCheck}
+
+Анализатор классифицирует найденные проблемы по уровням серьёзности:
+
+\begin{itemize}
+\item \textbf{Error} — критические ошибки, способные вызвать сбой программы.
+\item \textbf{Warning} — потенциальные проблемы, которые могут привести к некорректному поведению.
+\item \textbf{Style} — нарушения стиля оформления, не влияющие на исполнение, но ухудшающие читаемость кода.
+\item \textbf{Performance} — рекомендации по повышению производительности.
+\item \textbf{Portability} — вопросы, связанные с переносимостью кода на разные платформы.
+\item \textbf{Information} — информационные сообщения.
+\end{itemize}
+
+Для проверки кода по всем категориям можно использовать следующую команду:
+
+\begin{verbatim}
+cppcheck --enable=all --inconclusive исходные_файлы
+\end{verbatim}
+
+Чтобы включить только определённые типы проблем, применяются соответствующие ключи:
+
+\begin{itemize}
+\item \texttt{--enable=style} — проверка стиля кода.
+\item \texttt{--enable=performance} — проверка производительности.
+\item \texttt{--enable=portability} — проверка переносимости.
+\item \texttt{--enable=information} — информационные сообщения.
+\item \texttt{--enable=unusedFunction} — поиск неиспользуемых функций.
+\item \texttt{--enable=warning} — вывод предупреждений.
+\end{itemize}
+
+\subsection*{Форматы вывода}
+
+CppCheck поддерживает два формата представления результатов анализа:
+\begin{itemize}
+\item текстовый;
+\item XML.
+\end{itemize}
+
+\subsection*{Правила проверки}
+
+Анализатор реализует 167 правил, сгруппированных по следующим категориям:
+
+\begin{itemize}
+\item 64-bit portability
+\item Assert
+\item Auto Variables
+\item Boolean
+\item Boost usage
+\item Bounds checking
+\item Check function usage
+\item Class
+\item Condition
+\item Exception Safety
+\item IO using format string
+\item Leaks (auto variables)
+\item Memory leaks (address not taken)
+\item Memory leaks (class variables)
+\item Memory leaks (function variables)
+\item Memory leaks (struct members)
+\item Null pointer
+\item Other
+\item STL usage
+\item Sizeof
+\item String
+\item Type
+\item Uninitialized variables
+\item Unused functions
+\item UnusedVar
+\item Using postfix operators
+\item Vaarg
+\end{itemize}
+
+\subsection*{Разбор правил группы «STL usage»}
+
+В группе «STL usage» CppCheck предоставляет 13 проверок на некорректное использование функций стандартной библиотеки шаблонов. 
+Рассмотрим два из них.
+
+\subsubsection*{Правило \texttt{dereferencingAnErasedIterator}}
+\begin{itemize}
+\item Уровень серьёзности: Error
+\item Категория: STL usage
+\end{itemize}
+В STL действия с контейнерами обычно выполняются через итераторы (специальные объекты-посредники, предоставляющие доступ к 
+элементам и операции над ними). Однако итераторы не всегда устойчивы: если после создания итератора контейнер был изменён, 
+итератор может стать недействительным, и его использование недопустимо. Поведение зависит от типа контейнера. Например, для 
+\texttt{std::vector} после вставки нового элемента все итераторы становятся невалидными, а для \texttt{std::list} они остаются 
+корректными. Это правило выявляет проблемы, связанные с использованием итераторов после модификации контейнера.
+
+\subsubsection*{Правило \texttt{usingAutoPointer}}
+\begin{itemize}
+\item Уровень серьёзности: Warning
+\item Категория: STL usage
+\end{itemize}
+STL предоставляет несколько классов для автоматического управления ресурсами: \texttt{std::unique\_ptr} (уникальное владение) и 
+\texttt{std::shared\_ptr} (разделяемое владение). Оба появились в стандарте C++11. Более старый стандарт C++03 включал только 
+\texttt{std::auto\_ptr} (также реализующий уникальное владение), но этот класс признан устаревшим. Его использование может 
+приводить к проблемам с управлением ресурсами, поэтому считается нежелательным. Данное правило отслеживает применение 
+\texttt{std::auto\_ptr}.
+
+\subsection*{Разбор правил группы «Bounds checking»}
+
+Эта группа проверяет корректность работы с массивами и строками. Рассмотрим два правила.
+
+\subsubsection*{Правило \texttt{arrayIndexOutOfBounds}}
+\begin{itemize}
+\item Уровень серьёзности: Error
+\item Категория: Bounds checking
+\end{itemize}
+Правило действует для статических массивов, а также для динамически выделенных массивов, размер которых известен на этапе компиляции. 
+Оно проверяет, что при обращении к массиву не происходит выхода за его границы.
+
+\subsubsection*{Правило \texttt{negativeMemoryAllocationSize}}
+\begin{itemize}
+\item Уровень серьёзности: Error
+\item Категория: Bounds checking
+\end{itemize}
+Выделение динамического или статического массива с отрицательным размером является ошибочным. Компилятор может обнаружить такую проблему 
+только если отрицательное значение задано явно в коде. Если же размер передаётся через переменную, компилятор обычно не может выявить ошибку. 
+Однако данное правило CppCheck способно определить проблему в тех случаях, когда значение переменной можно вычислить статически.
+
+\pagebreak
+
+\section{Запуск CppCheck на MacOS}
+
+Работа с CppCheck на MacOS происходит в терминале. Для того, чтобы установить и работать с программой требуется следовать следующим шагам:
+
+\begin{enumerate}
+	\item Откройте терминал.
+	\item Для установки воспользуйтесь командой:
+	
+	\begin{verbatim}
+		brew install cppcheck
+	\end{verbatim}
+
+	\item Выполните анализ программы при помощи команды:
+	
+	\begin{verbatim}
+		cppcheck --enable=all --inconclusive путь_к_исходным_файлам
+	\end{verbatim}
+
+\end{enumerate}
+
+Для того просмотра ошибок определенного типа используйте следующие параметры:
+
+\begin{itemize}
+\item \texttt{enable=style} — анализ соответствия стилевым нормам кода;
+\item \texttt{enable=performance} — оценка производительности;
+\item \texttt{enable=portability} — контроль переносимости на различные платформы;
+\item \texttt{enable=information} — вывод информационных сообщений;
+\item \texttt{enable=unusedFunction} — обнаружение функций, которые нигде не используются;
+\item \texttt{enable=warning} — показ предупреждений.
+\end{itemize}
+
+\pagebreak
+
+\section{Результаты запуска}
+
+После запуска анализатора Cppcheck с параметрами \texttt{--enable=all --inconclusive}
+для файлов \texttt{main.cpp}, \texttt{graph.cpp} и \texttt{graph.h} было обнаружено:
+1 ошибка синтаксиса, 1 стилистическое предупреждение и 7 информационных сообщений
+о системных заголовочных файлах.
+ 
+Результаты анализа представлены в таблице ниже. В таблице указаны файл и строка,
+в которой обнаружена проблема, важность, краткое описание и идентификатор проблемы.
+
+{\scriptsize{
+\begin{longtable}{|>{\raggedright\arraybackslash}p{2.2cm}
+                  |>{\raggedright\arraybackslash}p{1.3cm}
+                  |>{\raggedright\arraybackslash}p{2.4cm}
+                  |>{\raggedright\arraybackslash}p{5.5cm}
+                  |>{\raggedright\arraybackslash}p{3.0cm}|}
+\hline
+\textbf{Файл} & \textbf{Строка} & \textbf{Важность} & \textbf{Кратко} & \textbf{Id} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Файл} & \textbf{Строка} & \textbf{Важность} & \textbf{Кратко} & \textbf{Id} \\
+\hline
+\endhead
+ 
+\texttt{graph.h}   & 7  & ошибка         & Code `classmyGraph\{' is invalid C code. & \texttt{syntaxError} \\
+\hline
+\texttt{graph.cpp} & 14 & стиль          & The function `getNum' is never used. & \texttt{unusedFunction} \\
+\hline
+\texttt{main.cpp}  & 1  & информация & Include file: \textless iostream\textgreater{} not found. & \texttt{missingIncludeSystem} \\
+\hline
+\texttt{main.cpp}  & 2  & информация & Include file: \textless string\textgreater{} not found. & \texttt{missingIncludeSystem} \\
+\hline
+\texttt{main.cpp}  & 3  & информация & Include file: \textless regex\textgreater{} not found. & \texttt{missingIncludeSystem} \\
+\hline
+\texttt{graph.h}   & 3  & информация & Include file: \textless vector\textgreater{} not found. & \texttt{missingIncludeSystem} \\
+\hline
+\texttt{graph.h}   & 4  & информация & Include file: \textless iostream\textgreater{} not found. & \texttt{missingIncludeSystem} \\
+\hline
+\texttt{graph.h}   & 5  & информация & Include file: \textless queue\textgreater{} not found. & \texttt{missingIncludeSystem} \\
+\hline
+\texttt{main.cpp}  & 0  & информация & Limiting analysis of branches. Use --check-level=exhaustive. & \texttt{normalCheckLevel\-MaxBranches} \\
+\hline
+ 
+\end{longtable}}}
+ 
+\subsection*{Описание найденных проблем}
+ 
+\begin{enumerate}
+ 
+\item \textbf{Ошибка синтаксиса:}
+ 
+Сообщение: \texttt{Code 'classmyGraph\{' is invalid C code.}
+ 
+Описание: Cppcheck анализировал файл \texttt{graph.h} как код на языке C, а не C++.
+При таком режиме анализа ключевое слово \texttt{class} не распознаётся,
+и инструмент воспринимает строку \texttt{class myGraph \{} как единый некорректный
+идентификатор \texttt{classmyGraph\{}. Реальной синтаксической ошибки в коде нет.
+ 
+Решение: передавать файл на анализ явно как C++ код, добавив флаг
+\texttt{--language=c++}, либо убедиться, что расширение файла
+(\texttt{.h}, \texttt{.cpp}) корректно распознаётся анализатором.
+ 
+\item \textbf{Стилистическое предупреждение:}
+ 
+Сообщение: \texttt{The function 'getNum' is never used.}
+ 
+Описание: метод \texttt{getNum()} объявлен и реализован в классе \texttt{myGraph},
+однако нигде не вызывается в коде программы. После упрощения программы до
+нахождения кратчайшего пути метод утратил своё назначение и стал <<мёртвым кодом>>.
+ 
+Решение: удалить объявление метода \texttt{getNum()} из файла \texttt{graph.h}
+и его реализацию из файла \texttt{graph.cpp}.
+ 
+\item \textbf{Информационные сообщения (\texttt{missingIncludeSystem}):}
+ 
+Сообщение (7 случаев): \texttt{Include file: <...> not found.}
+ 
+Описание: Cppcheck не находит стандартные заголовочные файлы
+(\texttt{<iostream>}, \texttt{<string>}, \texttt{<regex>}, \texttt{<vector>},
+\texttt{<queue>}). Как указывает сам анализатор, стандартные библиотечные
+заголовки не обязательно предоставлять для получения корректных результатов
+анализа. Это не ошибки в коде, а особенность окружения запуска Cppcheck.
+ 
+Решение: сообщения носят исключительно информационный характер и не требуют
+исправления кода. При необходимости их можно подавить флагом
+\texttt{--suppress=missingIncludeSystem}.
+ 
+\end{enumerate}
+
+\pagebreak
+
+\section{Исправление недостатков}
+
+Изменения:
+ 
+\begin{enumerate}
+ 
+\item \textbf{Удаление неиспользуемого метода \texttt{getNum()} (\texttt{unusedFunction}):}
+метод был объявлен в \texttt{graph.h} и реализован в \texttt{graph.cpp},
+однако нигде не вызывался. Метод удалён из обоих файлов.
+ 
+Было в \texttt{graph.h}:
+\begin{lstlisting}
+    std::vector<int> bfsShortestPath(int start, int end);
+    int getNum() const;
+};
+\end{lstlisting}
+ 
+Стало в \texttt{graph.h}:
+\begin{lstlisting}
+    std::vector<int> bfsShortestPath(int start, int end);
+};
+\end{lstlisting}
+ 
+Было в \texttt{graph.cpp}:
+\begin{lstlisting}
+int myGraph::getNum() const {
+    return m_num;
+}
+\end{lstlisting}
+ 
+Стало в \texttt{graph.cpp}: реализация метода полностью удалена.
+ 
+\item \textbf{Исправление ложной ошибки синтаксиса (\texttt{syntaxError}):}
+Cppcheck анализировал \texttt{graph.h} как код на языке C, из-за чего
+ключевое слово \texttt{class} не распознавалось и возникала ложная ошибка.
+Решение~--- не передавать заголовочный файл явно, так как он подключается
+автоматически через \texttt{\#include} в \texttt{.cpp} файлах.
+ 
+Было:
+\begin{lstlisting}
+cppcheck --enable=all --inconclusive main.cpp graph.cpp graph.h
+\end{lstlisting}
+ 
+Стало:
+\begin{lstlisting}
+cppcheck --enable=all --inconclusive main.cpp graph.cpp
+\end{lstlisting}
+ 
+\end{enumerate}
+ 
+После исправления всех проблем Cppcheck не выявляет ни одной ошибки,
+стилистического предупреждения или проблемы производительности.
+Результат финального запуска анализатора:
+ 
+\begin{lstlisting}
+user@MacBook-Air-user fixed-app % cppcheck --enable=all --inconclusive main.cpp graph.cpp
+Checking main.cpp ...
+main.cpp:1:2: information: Include file: <iostream> not found. [missingIncludeSystem]
+main.cpp:2:2: information: Include file: <string> not found. [missingIncludeSystem]
+main.cpp:3:2: information: Include file: <regex> not found. [missingIncludeSystem]
+graph.h:3:2: information: Include file: <vector> not found. [missingIncludeSystem]
+graph.h:4:2: information: Include file: <queue> not found. [missingIncludeSystem]
+main.cpp:0:0: information: Limiting analysis of branches. [normalCheckLevelMaxBranches]
+1/2 files checked 74% done
+Checking graph.cpp ...
+2/2 files checked 100% done
+nofile:0:0: information: Active checkers: 183/186 [checkersReport]
+\end{lstlisting}
+ 
+Итоговая статистика финального сканирования:
+ 
+\begin{longtable}{|>{\raggedright\arraybackslash}p{9cm}
+                  |>{\raggedright\arraybackslash}p{3cm}|}
+\hline
+\textbf{Категория} & \textbf{Количество} \\
+\hline
+\endfirsthead
+\hline
+\textbf{Категория} & \textbf{Количество} \\
+\hline
+\endhead
+Ошибки & 0 \\
+\hline
+Предупреждения & 0 \\
+\hline
+Стилистические предупреждения & 0 \\
+\hline
+Предупреждения переносимости & 0 \\
+\hline
+Проблемы с производительностью & 0 \\
+\hline
+Информационные сообщения (\texttt{missingIncludeSystem}) & 5 \\
+\hline
+Активных анализаторов & 183 из 186 \\
+\hline
+\end{longtable}
+
+\pagebreak
+
+\section*{Заключение}
+\addcontentsline{toc}{section}{Заключение}
+
+В ходе выполнения лабораторной работы был проведён статический анализ кода
+при помощи Cppcheck, а также описана сама программа. Использование Cppcheck
+позволило обнаружить одну ошибку синтаксиса и одно стилистическое предупреждение.
+На мой взгляд, Cppcheck~--- это удобный инструмент, которым легко пользоваться
+для тестирования программного кода.
+ 
+Ошибка синтаксиса оказалась ложной: анализатор обрабатывал заголовочный файл
+\texttt{graph.h} как код на языке C, из-за чего ключевое слово \texttt{class}
+не распознавалось корректно. Проблема была устранена изменением команды запуска
+анализатора~--- без явной передачи \texttt{graph.h} в аргументах. Стилистическое
+предупреждение об неиспользуемом методе \texttt{getNum()} было устранено путём
+удаления этого метода из кода, поскольку после упрощения программы он утратил
+своё назначение.
+ 
+Важно понимать, что статическое тестирование с помощью Cppcheck позволяет
+автоматически выявлять проблемы, которые сложно заметить при ручной проверке.
+Опыт, заложенный в инструменты статического анализа, несопоставим с возможностями
+одного программиста. Я сделал вывод, что статическое тестирование является
+полезным и необходимым этапом разработки, позволяющим повысить качество кода
+и устранить потенциальные ошибки на ранней стадии.
+
+\end{document}
