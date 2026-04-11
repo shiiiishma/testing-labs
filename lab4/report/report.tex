@@ -1,0 +1,205 @@
+\documentclass{article}[14pt]
+\usepackage[T2A]{fontenc}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{tocloft}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{wrapfig}
+\usepackage[english, russian]{babel}
+\geometry{
+	a4paper,
+	top=20mm, 
+	right=25mm, 
+	bottom=25mm, 
+	left=25mm
+}
+\usepackage{amssymb}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\usepackage{ dsfont }
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{listingsutf8}
+\usepackage{pdfpages}
+\usepackage{lipsum}
+\usepackage{makecell}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{tabularx}
+
+
+\lstset{ 
+	basicstyle=\ttfamily\small,
+	keywordstyle=\color{blue},
+	inputencoding=utf8,              
+	extendedchars=true,
+	stringstyle=\color{red}
+	commentstyle=\color{green},
+	showspaces=false,         
+	showstringspaces=false,  
+	numbers=left,              
+	numberstyle=\tiny\color{gray},
+	breaklines=true,          
+	frame=single,           
+	captionpos=b,             
+	tabsize=4,
+	escapeinside={(*@}{@*)},
+	literate={ё}{{\"o}}1 {Ё}{{\"O}}1 {«}{{\guillemotleft}}1 {»}{{\guillemotright}}1
+	{А}{{\CYRA}}1 {Б}{{\CYRB}}1 {В}{{\CYRV}}1 {Г}{{\CYRG}}1 {Д}{{\CYRD}}1 
+	{Е}{{\CYRE}}1 {Ж}{{\CYRZH}}1 {З}{{\CYRZ}}1 {И}{{\CYRI}}1 {Й}{{\CYRISHRT}}1 
+	{К}{{\CYRK}}1 {Л}{{\CYRL}}1 {М}{{\CYRM}}1 {Н}{{\CYRN}}1 {О}{{\CYRO}}1 
+	{П}{{\CYRP}}1 {Р}{{\CYRR}}1 {С}{{\CYRS}}1 {Т}{{\CYRT}}1 {У}{{\CYRU}}1 
+	{Ф}{{\CYRF}}1 {Х}{{\CYRH}}1 {Ц}{{\CYRC}}1 {Ч}{{\CYRCH}}1 {Ш}{{\CYRSH}}1 
+	{Щ}{{\CYRSHCH}}1 {Ъ}{{\CYRHRDSN}}1 {Ы}{{\CYRERY}}1 {Ь}{{\CYRSFTSN}}1 
+	{Э}{{\CYREREV}}1 {Ю}{{\CYRYU}}1 {Я}{{\CYRYA}}1 
+	{а}{{\cyra}}1 {б}{{\cyrb}}1 {в}{{\cyrv}}1 {г}{{\cyrg}}1 {д}{{\cyrd}}1 
+	{е}{{\cyre}}1 {ж}{{\cyrzh}}1 {з}{{\cyrz}}1 {и}{{\cyri}}1 {й}{{\cyrishrt}}1 
+	{к}{{\cyrk}}1 {л}{{\cyrl}}1 {м}{{\cyrm}}1 {н}{{\cyrn}}1 {о}{{\cyro}}1 
+	{п}{{\cyrp}}1 {р}{{\cyrr}}1 {с}{{\cyrs}}1 {т}{{\cyrt}}1 {у}{{\cyru}}1 
+	{ф}{{\cyrf}}1 {х}{{\cyrh}}1 {ц}{{\cyrc}}1 {ч}{{\cyrch}}1 {ш}{{\cyrsh}}1 
+	{щ}{{\cyrshch}}1 {ъ}{{\cyrhrdsn}}1 {ы}{{\cyrery}}1 {ь}{{\cyrsftsn}}1 
+	{э}{{\cyrerev}}1 {ю}{{\cyryu}}1 {я}{{\cyrya}}1               
+}
+\begin{document}
+	
+\thispagestyle{empty}
+\begin{center}
+	\Large {\bfseries МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ}
+	\\
+	\vspace{3mm}
+	Федеральное государственное автономное образовательное учреждение высшего образования <<Санкт-Петербургский политехнический университет Петра Великого>>
+	\\
+	\vspace{3mm}
+	Институт компьютерных наук и кибербезопасности
+	\\
+	\vspace{3mm}
+	Высшая школа технологий искусственного интеллекта
+	\\
+	\vspace{3mm}
+	Направление: 02.03.01 Математика и компьютерные науки
+	\\
+	\vspace{2cm}
+	\large{
+		Методы тестирования программного обеспечения}
+	\\
+	\LARGE{
+		Отчет по лабораторной работе №4\\
+		<<Автоматизированное тестирование>>}
+\end{center}
+
+\vspace{5.5cm}
+\begin{flushleft}
+	\Large
+	Студент
+	\\
+	группы 5130201/30101
+	\\
+	\vspace{2cm}
+	\Large
+	Преподаватель
+	\\ 
+\end{flushleft}
+\vspace{-4.6cm}
+\begin{flushright}
+	\Large
+	\line(1,0){2cm}
+	\hspace{0.4cm}
+	Шишмаков В.О.
+	\\
+	\vspace{2,7cm}
+	\hspace{2cm}
+	\Large
+	\line(1,0){2cm}
+	\hspace{0.4cm}
+	Курочкин М. А.
+	\hspace{-0.1cm}
+	
+\end{flushright}
+
+\vspace{1cm}
+\hspace{9.8cm}
+{
+	\Large
+	\vspace{0.8cm}
+	<<\underline{\hspace{1cm}}>>\underline{\hspace{2.5cm}} 2026 г.
+}
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\begin{center} \large{Санкт-Петербург, 2026} \end{center}
+\pagebreak
+
+\titleformat{\section}
+{\Huge\bfseries}
+{\thesection\;}
+{0.65cm}
+{}
+\titleformat{\subsection}
+{\huge\bfseries}
+{\thesubsection\;}
+{0.65cm}
+{}
+\titleformat{\subsubsection}
+{\Large\bfseries}
+{\thesubsubsection\;}
+{0.65cm}
+{}
+\titlespacing*{\section}
+{0em}
+{1.5ex plus 1ex minus 0.2ex}
+{1.5ex plus 1ex minus 0.2ex}	
+
+\renewcommand*\contentsname{\huge{Содержание}}
+\Large{
+	\tableofcontents}
+\pagebreak
+
+\section*{Введение}
+\addcontentsline{toc}{section}{Введение}
+
+Тестирование программного обеспечения представляет собой процесс выявления расхождений между реальным поведением программы и 
+её задокументированными требованиями. Основная цель тестирования — обнаружить максимальное количество дефектов, связанных с несоответствием 
+продукта заявленным спецификациям, и желательно делать это с минимальными временными затратами.
+
+Автоматизированное тестирование — это способ проверки соответствия ПО требованиям с помощью специализированных инструментов и фреймворков, 
+позволяющих многократно выполнять однотипные проверки без участия человека. К преимуществам автоматизированного тестирования относятся:
+
+\begin{itemize}
+\item Автоматизированное тестирование надёжнее ручного, поскольку уменьшает влияние человеческого фактора.
+\item Ручное тестирование не только требует больше времени, но и может приводить к появлению новых ошибок.
+\item Инструменты автоматизации помогают находить ошибки в продукте на ранних этапах разработки.
+\item Высокая производительность приложений: благодаря широкому охвату тестами автоматизация обеспечивает высокое качество и производительность 
+программного продукта.
+\end{itemize}
+
+Автоматизация играет важную роль в современной разработке ПО, особенно в крупных и долгосрочных проектах, где необходимо поддерживать 
+высокий уровень качества продукта.
+
+\pagebreak
+
+\section{Постановка задачи}
+
+В рамках данной работы требуется выполнить следующие задачи:
+
+\begin{itemize}
+\item Разработать набор модульных тестов для библиотеки \texttt{lab-1.0.jar} с применением фреймворка JUnit:
+  \begin{itemize}
+    \item Создать модульные тесты для четырёх методов указанной библиотеки, используя JUnit.
+    \item Запустить подготовленные тесты средствами используемой интегрированной среды разработки.
+    \item Представить результаты выполнения тестов.
+  \end{itemize}
+
+\item Выполнить тестирование веб-сайта с помощью инструментов TestNG и Selenium WebDriver:
+  \begin{itemize}
+    \item Написать два теста, проверяющих корректность отображения и функционирования страниц веб-сайта.
+    \item Оформить код тестов в соответствии с соглашениями Java Code Convention.
+    \item Запустить тесты, используя конфигурационный файл TestNG в формате \texttt{suite.xml}.
+  \end{itemize}
+\end{itemize}
+
+\end{document}

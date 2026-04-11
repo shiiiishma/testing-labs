@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+// Опционально: настройки компиляции для совместимости
+java {
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
+repositories {
+    mavenCentral()  // Обязательно для загрузки зависимостей из Maven Central
+}
+
+dependencies {
+    // JUnit 5 (API and Engine)
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.3'
+
+    // Required for Gradle to run JUnit 5 tests
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+    // Локальный JAR-файл
+    testImplementation files('libs/lab-1.0.jar')
+}
+
+test {
+    useJUnitPlatform()
+
+    // Опционально: вывод результатов тестов в консоль
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}
