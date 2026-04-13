@@ -76,9 +76,7 @@ public class DateUtilsTest {
     @ValueSource(ints = {2020, 2024, 2000})
     public void testGetDaysInMonth_FebruaryLeapYear(int year) {
         int days = DateUtils.getDaysInMonth(year, 2);
-        // ВНИМАНИЕ: В реализации есть ДЕФЕКТ - всегда возвращается 28 дней
-        // Правильное значение должно быть 29 для високосных лет
-        assertEquals(28, days, "Февраль " + year + " возвращает 28 дней (ДЕФЕКТ: должно быть 29)");
+        assertEquals(29, days, "Февраль " + year + " возвращает 28 дней");
     }
 
     // ==================== ТЕСТЫ ДЛЯ daysBetween ====================

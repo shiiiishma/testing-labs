@@ -1,0 +1,12 @@
+<!-- Подключение схемы TestNG для валидации XML -->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- Имя набора тестов (отображается в отчётах) -->
+<suite name="suite-for-hw2">
+    <!-- Логическая группа тестов внутри suite -->
+    <test name="WebDriver tests">
+        <!-- Запуск всех тестовых классов в указанном пакете -->
+        <packages>
+            <package name="ru.spbstu.hsai"/>
+        </packages>
+    </test>
+</suite>

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.9)  10 APR 2026 17:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.9)  13 APR 2026 16:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -958,26 +958,550 @@ LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 1
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
-[4] (report.aux)
+[4]
+Overfull \hbox (13.2461pt too wide) in paragraph at lines 207--207
+|[]\T2A/cmr/bx/n/24.88 ^^ce^^ef^^e8^^f1^^e0^^ed^^e8^^e5 ^^f1^^f0^^e5^^e4^^f1^^f2^^e2 ^^e0^^e2-^^f2^^ee-^^ec^^e0-^^f2^^e8-^^e7^^e0-^^f6^^e8^^e8 ^^f2^^e5-
+ []
+
+
+Overfull \hbox (18.39627pt too wide) in paragraph at lines 216--217
+[]\T2A/cmr/bx/n/14.4 ^^c0^^ed^^ed^^ee^^f2^^e0^^f6^^e8^^e8\T2A/cmr/m/n/14.4 : JUnit ^^ef^^f0^^e5^^e4^^ee-^^f1^^f2^^e0^^e2-^^eb^^ff-^^e5^^f2 ^^e0^^ed-^^ed^^ee-^^f2^^e0-^^f6^^e8^^e8, ^^f2^^e0-^^ea^^e8^^e5 ^^ea^^e0^^ea \T2A/cmtt/m/n/14.4 @Test\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 @Before\T2A/cmr/m/n/14.4 ,
+ []
+
+
+Overfull \hbox (38.21594pt too wide) in paragraph at lines 217--218
+[]\T2A/cmr/bx/n/14.4 ^^cf^^e0^^f0^^e0^^ec^^e5^^f2^^f0^^e8^^e7^^ee^^e2^^e0^^ed^^ed^^fb^^e5 ^^f2^^e5-^^f1^^f2^^fb\T2A/cmr/m/n/14.4 : ^^f1 ^^ef^^ee-^^ec^^ee-^^f9^^fc^^fe ^^e0^^ed-^^ed^^ee-^^f2^^e0-^^f6^^e8^^e9 \T2A/cmtt/m/n/14.4 @ParameterizedTest
+ []
+
+
+
+[5]
+Overfull \hbox (13.0447pt too wide) in paragraph at lines 243--244
+[]\T2A/cmr/m/n/14.4 ^^d4^^f0^^e5^^e9^^ec^^e2^^ee^^f0^^ea ^^ef^^ee^^e4-^^e4^^e5^^f0-^^e6^^e8-^^e2^^e0-^^e5^^f2-^^f1^^ff ^^ed^^e0 ^^f0^^e0^^e7-^^eb^^e8^^f7-^^ed^^fb^^f5 ^^ee^^ef^^e5-^^f0^^e0-^^f6^^e8-^^ee^^ed-^^ed^^fb^^f5 ^^f1^^e8-^^f1^^f2^^e5-^^ec^^e0^^f5 (Mac,
+ []
+
+
+
+[6]
+
+[7]
+
+[8]
+Overfull \hbox (9.49199pt too wide) in paragraph at lines 313--314
+[]\T2A/cmr/m/n/14.4 ^^c2^^f1^^e5 ^^e7^^e0-^^e2^^e5^^f0-^^f8^^e0-^^fe-^^f9^^e8^^e5 ^^e4^^e5^^e9-^^f1^^f2^^e2^^e8^^ff ^^e2^^fb-^^ed^^e5-^^f1^^f2^^e8 ^^e2 ^^ec^^e5-^^f2^^ee-^^e4^^fb ^^f1 ^^e0^^ed-^^ed^^ee-^^f2^^e0-^^f6^^e8-^^e5^^e9 \T2A/cmtt/m/n/14.4 @After\T2A/cmr/m/n/14.4 . 
+ []
+
+
+Overfull \hbox (0.30032pt too wide) in paragraph at lines 314--315
+[]\T2A/cmr/m/n/14.4 ^^d2^^e5^^f1^^f2^^ee^^e2^^fb^^e5 ^^e4^^e0^^ed-^^ed^^fb^^e5 ^^ef^^e5-^^f0^^e5-^^e4^^e0-^^e2^^e0^^f2^^fc ^^f1 ^^ef^^ee-^^ec^^ee-^^f9^^fc^^fe ^^ef^^e0-^^f0^^e0-^^ec^^e5^^f2-^^f0^^e8-^^e7^^e0-^^f6^^e8^^e8, ^^e8^^f1-^^ef^^ee^^eb^^fc-
+ []
+
+
+Overfull \hbox (15.11176pt too wide) in paragraph at lines 323--324
+[]\T2A/cmr/m/n/14.4 ^^c7^^e0^^e2^^e5^^f0^^f8^^e0^^fe^^f9^^e8^^e5 ^^ee^^ef^^e5-^^f0^^e0-^^f6^^e8^^e8 ^^e2^^fb-^^ef^^ee^^eb-^^ed^^ff-^^fe^^f2-^^f1^^ff ^^e2 ^^ec^^e5-^^f2^^ee-^^e4^^e5 ^^f1 ^^e0^^ed-^^ed^^ee-^^f2^^e0-^^f6^^e8-^^e5^^e9 \T2A/cmtt/m/n/14.4 @AfterEach\T2A/cmr/m/n/14.4 ,
+ []
+
+
+
+[9]
+
+[10]
+Overfull \hbox (24.34572pt too wide) in paragraph at lines 524--535
+ [][] 
+ []
+
+
+
+[11]
+Overfull \hbox (1.61058pt too wide) in paragraph at lines 542--542
+[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9
+ []
+
+
+Overfull \hbox (6.72044pt too wide) in paragraph at lines 542--542
+[]|\T2A/cmr/bx/n/10 ^^d4^^e0^^ea^^f2^^e8^^f7^^e5^^f1^^ea^^e8^^e9
+ []
+
+
+Overfull \hbox (39.25896pt too wide) in paragraph at lines 616--617
+\T2A/cmr/m/n/14.4 ^^d2^^e5^^f1^^f2^^ee^^e2^^fb^^e9 ^^ea^^eb^^e0^^f1^^f1 \T2A/cmtt/m/n/14.4 DateUtilsTest \T2A/cmr/m/n/14.4 ^^ef^^f0^^ee-^^e2^^e5-^^f0^^ff-^^e5^^f2 ^^f4^^f3^^ed^^ea-^^f6^^e8-^^ee-^^ed^^e0^^eb^^fc-^^ed^^ee^^f1^^f2^^fc ^^ea^^eb^^e0^^f1-^^f1^^e0 \T2A/cmtt/m/n/14.4 DateUtils
+ []
+
+
+
+[12]
+Overfull \hbox (15.78505pt too wide) in paragraph at lines 618--619
+\T2A/cmr/m/n/14.4 ^^f6^^e8^^e8 ^^f1^^ee-^^ee^^f2-^^e2^^e5^^f2-^^f1^^f2^^e2^^e5^^ed-^^ed^^ee. ^^cc^^e5-^^f2^^ee^^e4 \T2A/cmtt/m/n/14.4 setUp() \T2A/cmr/m/n/14.4 ^^e8^^ed^^e8-^^f6^^e8-^^e0-^^eb^^e8-^^e7^^e8-^^f0^^f3-^^e5^^f2 ^^ef^^e5-^^f0^^e5-^^ec^^e5^^ed-^^ed^^fb^^e5 \T2A/cmtt/m/n/14.4 startTime
+ []
+
+<pics/test-results1.png, id=216, 451.6875pt x 514.92375pt>
+File: pics/test-results1.png Graphic file (type png)
+<use pics/test-results1.png>
+Package pdftex.def Info: pics/test-results1.png  used on input line 643.
+(pdftex.def)             Requested size: 364.19667pt x 415.2081pt.
+
+
+[13]
+
+[14 <./pics/test-results1.png>]
+Overfull \hbox (54.97684pt too wide) in paragraph at lines 657--658
+[]\T2A/cmr/m/n/14.4 ^^c0^^e4^^f0^^e5^^f1 ^^f2^^e5-^^f1^^f2^^e8-^^f0^^f3-^^e5-^^ec^^ee-^^e3^^ee ^^e2^^e5^^e1-^^f1^^e0^^e9^^f2^^e0: []$\T2A/cmtt/m/n/14.4 https : / / jdi-[]testing . github . io / jdi-[]light /
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 686--686
+[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-^^e7^^f3^^eb^^fc-
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 687--687
+[]|\T2A/cmr/m/n/10 ^^d1^^f2^^f0^^e0^^ed^^e8^^f6^^e0 Support ^^ee^^f2-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 688--688
+[]|\T2A/cmr/m/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f2^^e5^^ea^^f1^^f2:
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 688--688
+\T2A/cmr/m/n/10 "support"(^^e1^^e5^^e7 ^^f3^^f7^^bc-^^f2^^e0 ^^f0^^e5-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--689
+[]|\T2A/cmr/m/n/10 ^^cd^^e0^^e9^^f2^^e8 ^^f4^^ee^^f0-^^ec^^f3 ^^ed^^e0
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 689--689
+[]|\T2A/cmr/m/n/10 ^^cd^^e0^^e9^^e4^^e5^^ed^^e0 ^^f5^^ee-^^f2^^ff ^^e1^^fb ^^ee^^e4-^^ed^^e0
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--690
+[]|\T2A/cmr/m/n/10 ^^cf^^ee^^e8^^f1^^ea ^^ef^^ee ^^f1^^e5-^^eb^^e5^^ea-^^f2^^ee-^^f0^^f3:
+ []
+
+
+Overfull \hbox (1.66078pt too wide) in paragraph at lines 690--690
+\T2A/cmtt/m/n/10 div[class*='contact'],
+ []
+
+
+Overfull \hbox (17.40694pt too wide) in paragraph at lines 690--690
+\T2A/cmtt/m/n/10 section[class*='contact']| 
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 690--690
+[]|\T2A/cmr/m/n/10 ^^cd^^e0^^e9^^e4^^e5^^ed ^^f5^^ee-^^f2^^ff ^^e1^^fb ^^ee^^e4^^e8^^ed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 691--691
+[]|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^ea^^e0 ^^e2^^e8-^^e4^^e8-^^ec^^ee-^^f1^^f2^^e8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^e8^^f2^^fc ^^ed^^e0-^^eb^^e8-^^f7^^e8^^e5
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 692--692
+[]|\T2A/cmr/m/n/10 ^^cf^^ee^^e8^^f1^^ea ^^ef^^ee ^^f2^^e5-^^e3^^f3: \T2A/cmtt/m/n/10 input
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--693
+[]|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^e8^^f2^^fc ^^ed^^e0-^^eb^^e8-^^f7^^e8^^e5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--694
+[]|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^e8^^f2^^fc ^^ed^^e0-^^eb^^e8-^^f7^^e8^^e5
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 694--694
+\T2A/cmr/m/n/10 ^^ea^^ed^^ee^^ef-^^ea^^e8 ^^ee^^f2-^^ef^^f0^^e0^^e2-^^ea^^e8 ^^e2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--694
+[]|\T2A/cmr/m/n/10 ^^cf^^ee^^e8^^f1^^ea ^^ef^^ee ^^f1^^e5-^^eb^^e5^^ea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--694
+\T2A/cmr/m/n/10 ^^f2^^ee-^^f0^^f3: \T2A/cmtt/m/n/10 button\T2A/cmr/m/n/10 ,
+ []
+
+
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 704--705
+[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 706--706
+[]|\T2A/cmr/m/n/10 ^^cf^^ee^^eb^^f3^^f7^^e8^^f2^^fc ^^e7^^e0-^^e3^^ee-^^eb^^ee-^^e2^^ee^^ea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+[]|\T2A/cmr/m/n/10 ^^cc^^e5^^f2^^ee^^e4:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--708
+[]|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^e8^^f2^^fc ^^f1^^ee-^^ee^^f2-^^e2^^e5^^f2-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--710
+[]|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^ea^^e0 ^^ed^^e0 ^^ef^^f3-^^f1^^f2^^f3^^fe
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 712--712
+[]|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^e8^^f2^^fc ^^f1^^ee-^^e4^^e5^^f0-^^e6^^e0-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 712--712
+[]|\T2A/cmr/m/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^ee^^e5: ^^f1^^ee-^^e4^^e5^^f0-^^e6^^e8^^f2
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 712--712
+\T2A/cmtt/m/n/10 home \T2A/cmr/m/n/10 (^^e1^^e5^^e7 ^^f3^^f7^^bc-^^f2^^e0 ^^f0^^e5-^^e3^^e8-
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 712--713
+[]|\T2A/cmr/m/n/10 ^^c7^^e0^^e3^^ee^^eb^^ee^^e2^^ee^^ea ^^f1^^ee-^^e4^^e5^^f0-^^e6^^e8^^f2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 722--723
+[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+[]|\T2A/cmr/m/n/10 ^^d1^^e5^^eb^^e5^^ea^^f2^^ee^^f0:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
+\T2A/cmtt/m/n/10 ul.uui-navigation.nav
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--726
+[]|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^e8^^f2^^fc ^^ea^^ee-^^eb^^e8-^^f7^^e5-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 737--738
+[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--739
+[]|\T2A/cmr/m/n/10 ^^d1^^e5^^eb^^e5^^ea^^f2^^ee^^f0:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--739
+\T2A/cmtt/m/n/10 ul.uui-navigation.nav
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+[]|\T2A/cmr/m/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9: CONTACT
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 747--747
+[]|\T2A/cmr/m/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9: METALS &
+ []
+
+
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 758--759
+[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--760
+[]|\T2A/cmr/m/n/10 ^^d1^^e5^^eb^^e5^^ea^^f2^^ee^^f0:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--760
+\T2A/cmtt/m/n/10 ul.uui-navigation.nav
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--762
+[]|\T2A/cmr/m/n/10 ^^cc^^e5^^f2^^ee^^e4^^fb: \T2A/cmtt/m/n/10 isDisplayed()\T2A/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 762--763
+[]|\T2A/cmr/m/n/10 ^^c2^^f1^^e5 ^^f1^^f1^^fb^^eb-^^ea^^e8 ^^ee^^f2^^ee^^e1-^^f0^^e0-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 764--764
+[]|\T2A/cmr/m/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^ee^^e5: ^^f1^^ee-^^e4^^e5^^f0-^^e6^^e8^^f2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 764--764
+\T2A/cmtt/m/n/10 index.html \T2A/cmr/m/n/10 ^^e8^^eb^^e8 \T2A/cmtt/m/n/10 # \T2A/cmr/m/n/10 ^^e8^^eb^^e8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 764--765
+[]|\T2A/cmr/m/n/10 href ^^f1^^ee-^^ee^^f2-^^e2^^e5^^f2-^^f1^^f2^^e2^^f3-^^e5^^f2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+[]|\T2A/cmr/m/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^ee^^e5: ^^f1^^ee-^^e4^^e5^^f0-^^e6^^e8^^f2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+\T2A/cmtt/m/n/10 index.html \T2A/cmr/m/n/10 ^^e8^^eb^^e8 \T2A/cmtt/m/n/10 # \T2A/cmr/m/n/10 ^^e8^^eb^^e8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 766--767
+[]|\T2A/cmr/m/n/10 href ^^f1^^ee-^^ee^^f2-^^e2^^e5^^f2-^^f1^^f2^^e2^^f3-^^e5^^f2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 768--768
+[]|\T2A/cmr/m/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^ee^^e5: ^^f1^^ee-^^e4^^e5^^f0-^^e6^^e8^^f2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 768--768
+\T2A/cmtt/m/n/10 index.html \T2A/cmr/m/n/10 ^^e8^^eb^^e8 \T2A/cmtt/m/n/10 # \T2A/cmr/m/n/10 ^^e8^^eb^^e8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 768--769
+[]|\T2A/cmr/m/n/10 href ^^f1^^ee-^^ee^^f2-^^e2^^e5^^f2-^^f1^^f2^^e2^^f3-^^e5^^f2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+[]|\T2A/cmr/m/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^ee^^e5: ^^f1^^ee-^^e4^^e5^^f0-^^e6^^e8^^f2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+\T2A/cmtt/m/n/10 index.html \T2A/cmr/m/n/10 ^^e8^^eb^^e8 \T2A/cmtt/m/n/10 # \T2A/cmr/m/n/10 ^^e8^^eb^^e8
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
+[]|\T2A/cmr/m/n/10 href ^^f1^^ee-^^ee^^f2-^^e2^^e5^^f2-^^f1^^f2^^e2^^f3-^^e5^^f2
+ []
+
+LaTeX Font Info:    Font shape `T2A/cmtt/bx/n' in size <14.4> not available
+(Font)              Font shape `T2A/cmtt/m/n' tried instead on input line 779.
+
+
+[17]
+
+[18]
+Overfull \hbox (41.69962pt too wide) in paragraph at lines 810--811
+\T2A/cmr/m/n/14.4 ^^e4^^e8^^f2-^^f1^^ff ^^ef^^ee-^^e8^^f1^^ea ^^fd^^eb^^e5-^^ec^^e5^^ed-^^f2^^ee^^e2 ^^ef^^ee CSS-^^f1^^e5^^eb^^e5^^ea^^f2^^ee^^f0^^e0^^ec \T2A/cmtt/m/n/14.4 button \T2A/cmr/m/n/14.4 ^^e8 \T2A/cmtt/m/n/14.4 input[type='submit']\T2A/cmr/m/n/14.4 .
+ []
+
+
+Overfull \hbox (29.90501pt too wide) in paragraph at lines 812--813
+\T2A/cmr/m/n/14.4 ^^ef^^ee CSS-^^f1^^e5^^eb^^e5^^ea^^f2^^ee^^f0^^e0^^ec \T2A/cmtt/m/n/14.4 div[class='contact'] \T2A/cmr/m/n/14.4 ^^e8 \T2A/cmtt/m/n/14.4 section[class='contact']\T2A/cmr/m/n/14.4 .
+ []
+
+
+Overfull \hbox (11.89444pt too wide) in paragraph at lines 821--822
+\T2A/cmr/m/n/14.4 ^^e8 ^^e7^^e0-^^ef^^e8-^^f1^^fb-^^e2^^e0-^^e5^^f2 ^^e5^^e3^^ee ^^e2 ^^f2^^e5^^ea-^^f1^^f2^^ee-^^e2^^fb^^e9 ^^f4^^e0^^e9^^eb ^^f1 ^^e8^^ec^^e5-^^ed^^e5^^ec \T2A/cmtt/m/n/14.4 error_<^^e8^^ec^^ff_^^f2^^e5^^f1^^f2^^e0>.html\T2A/cmr/m/n/14.4 . 
+ []
+
+
+Overfull \hbox (2.51796pt too wide) in paragraph at lines 827--830
+\T2A/cmr/m/n/14.4 ^^ca^^eb^^e0^^f1^^f1 \T2A/cmtt/m/n/14.4 HomePageNavigationTestsResult \T2A/cmr/m/n/14.4 ^^ff^^e2-^^eb^^ff-^^e5^^f2-^^f1^^ff ^^ef^^ee-^^f2^^ee^^ec-^^ea^^ee^^ec \T2A/cmtt/m/n/14.4 DriverSetup
+ []
+
+
+Overfull \hbox (81.41615pt too wide) in paragraph at lines 837--838
+[]\T2A/cmr/bx/n/14.4 ^^cf^^f0^^ee^^e2^^e5^^f0^^ea^^e0 ^^ea^^ee-^^eb^^e8-^^f7^^e5-^^f1^^f2^^e2^^e0 ^^ef^^f3^^ed^^ea-^^f2^^ee^^e2 ^^e2^^e5^^f0^^f5-^^ed^^e5-^^e3^^ee ^^ec^^e5-^^ed^^fe. \T2A/cmr/m/n/14.4 ^^cc^^e5-^^f2^^ee^^e4 \T2A/cmtt/m/n/14.4 testHeaderMenuCount
+ []
+
+
+Overfull \hbox (60.63826pt too wide) in paragraph at lines 837--838
+\T2A/cmr/m/n/14.4 ^^ed^^e0-^^f5^^ee-^^e4^^e8^^f2 ^^e2^^f1^^e5 ^^fd^^eb^^e5-^^ec^^e5^^ed-^^f2^^fb \T2A/cmtt/m/n/14.4 li \T2A/cmr/m/n/14.4 ^^e2^^ed^^f3^^f2-^^f0^^e8 ^^ed^^e0-^^e2^^e8-^^e3^^e0-^^f6^^e8-^^ee^^ed-^^ed^^ee^^e9 ^^ef^^e0-^^ed^^e5-^^eb^^e8 \T2A/cmtt/m/n/14.4 ul.ui-navigation.nav
+ []
+
+
+Overfull \hbox (54.59695pt too wide) in paragraph at lines 839--840
+[]\T2A/cmr/bx/n/14.4 ^^cf^^f0^^ee^^e2^^e5^^f0^^ea^^e0 ^^f2^^e5^^ea-^^f1^^f2^^ee^^e2 ^^ef^^f3^^ed^^ea-^^f2^^ee^^e2 ^^e2^^e5^^f0^^f5-^^ed^^e5-^^e3^^ee ^^ec^^e5-^^ed^^fe. \T2A/cmr/m/n/14.4 ^^cc^^e5-^^f2^^ee^^e4 \T2A/cmtt/m/n/14.4 testHeaderMenuTexts
+ []
+
+
+Overfull \hbox (10.44002pt too wide) in paragraph at lines 839--840
+\T2A/cmr/m/n/14.4 ^^e7^^ed^^e0-^^f7^^e5-^^ed^^e8-^^ff-^^ec^^e8: \T2A/cmtt/m/n/14.4 "HOME"\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 "CONTACT FORM"\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 "SERVICE"\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 "METALS & COLORS"\T2A/cmr/m/n/14.4 .
+ []
+
+
+
+[19]
+Overfull \hbox (25.0441pt too wide) in paragraph at lines 841--842
+\T2A/cmr/m/n/14.4 ^^ee^^e6^^e8-^^e4^^e0-^^e5-^^ec^^fb^^f5 ^^ef^^e0^^f2-^^f2^^e5^^f0-^^ed^^ee^^e2: \T2A/cmtt/m/n/14.4 "index.html"\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 "contact.html"\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 "service.html"\T2A/cmr/m/n/14.4 ,
+ []
+
+
+Overfull \hbox (78.86552pt too wide) in paragraph at lines 843--844
+[]\T2A/cmr/bx/n/14.4 ^^cf^^f0^^ee^^e2^^e5^^f0^^ea^^e0 ^^ea^^eb^^e8-^^ea^^e0-^^e1^^e5^^eb^^fc-^^ed^^ee-^^f1^^f2^^e8 ^^ef^^f3^^ed^^ea-^^f2^^ee^^e2 ^^ec^^e5-^^ed^^fe. \T2A/cmr/m/n/14.4 ^^cc^^e5-^^f2^^ee^^e4 \T2A/cmtt/m/n/14.4 testHeaderMenuClickable
+ []
+
+
+Overfull \hbox (89.66208pt too wide) in paragraph at lines 845--846
+[]\T2A/cmr/bx/n/14.4 ^^cf^^f0^^ee^^e2^^e5^^f0^^ea^^e0 ^^e8^^ec^^e5-^^ed^^e8 ^^e7^^e0-^^eb^^ee-^^e3^^e8-^^ed^^e5^^ed-^^ed^^ee-^^e3^^ee ^^ef^^ee^^eb^^fc-^^e7^^ee-^^e2^^e0-^^f2^^e5-^^eb^^ff. \T2A/cmr/m/n/14.4 ^^cc^^e5-^^f2^^ee^^e4 \T2A/cmtt/m/n/14.4 testLoggedInUserName
+ []
+
+
+Overfull \hbox (1.96353pt too wide) in paragraph at lines 847--848
+\T2A/cmr/m/n/14.4 ^^e4^^e8^^f2 ^^e8^^ea^^ee^^ed-^^ea^^f3 ^^ef^^f0^^ee-^^f4^^e8-^^eb^^ff ^^ef^^ee ^^f1^^e5-^^eb^^e5^^ea-^^f2^^ee-^^f0^^f3 \T2A/cmtt/m/n/14.4 .profile-photo\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 .user-icon\T2A/cmr/m/n/14.4 . ^^cf^^f0^^ee-
+ []
+
+
+Overfull \hbox (15.63275pt too wide) in paragraph at lines 847--848
+\T2A/cmr/m/n/14.4 ^^e0^^eb^^fc-^^ed^^ee-^^e3^^ee ^^ea^^ee^^ed-^^f2^^e5^^ed-^^f2^^e0: ^^f2^^e5^^ea^^f1^^f2, ^^ea^^eb^^e0^^f1^^f1, ^^f1^^ee-^^e4^^e5^^f0-^^e6^^e0-^^f9^^e8^^e9 \T2A/cmtt/m/n/14.4 "icon"\T2A/cmr/m/n/14.4 /\T2A/cmtt/m/n/14.4 "avatar"\T2A/cmr/m/n/14.4 /\T2A/cmtt/m/n/14.4 "photo"\T2A/cmr/m/n/14.4 ,
+ []
+
+
+Overfull \hbox (52.99348pt too wide) in paragraph at lines 849--850
+\T2A/cmr/m/n/14.4 ^^eb^^ee-^^e3^^ee-^^f2^^e8-^^ef^^e0 ^^ef^^ee ^^ed^^e5^^f1^^ea^^ee^^eb^^fc-^^ea^^e8^^ec ^^f1^^e5-^^eb^^e5^^ea-^^f2^^ee-^^f0^^e0^^ec (\T2A/cmtt/m/n/14.4 .brand-logo\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 .logo\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 img[alt*='logo']\T2A/cmr/m/n/14.4 ,
+ []
+
+
+Overfull \hbox (51.16698pt too wide) in paragraph at lines 851--852
+\T2A/cmr/m/n/14.4 ^^ef^^ee^^e4-^^e2^^e0^^eb ^^f1^^f2^^f0^^e0-^^ed^^e8-^^f6^^fb ^^ef^^ee ^^f1^^e5-^^eb^^e5^^ea-^^f2^^ee-^^f0^^e0^^ec \T2A/cmtt/m/n/14.4 footer\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 .footer \T2A/cmr/m/n/14.4 ^^e8^^eb^^e8 \T2A/cmtt/m/n/14.4 [role='contentinfo']\T2A/cmr/m/n/14.4 .
+ []
+
+
+
+[20]
+Overfull \hbox (20.03238pt too wide) in paragraph at lines 853--854
+\T2A/cmr/m/n/14.4 ^^e4^^e5^^f0-^^e6^^e8^^f2 ^^ee^^e4-^^ed^^ee ^^e8^^e7 ^^ea^^eb^^fe-^^f7^^e5-^^e2^^fb^^f5 ^^f1^^eb^^ee^^e2: \T2A/cmtt/m/n/14.4 "container"\T2A/cmr/m/n/14.4 , \T2A/cmtt/m/n/14.4 "wrapper" \T2A/cmr/m/n/14.4 ^^e8^^eb^^e8 \T2A/cmtt/m/n/14.4 "content"\T2A/cmr/m/n/14.4 .
+ []
+
+<pics/part2-result1.png, id=281, 912.40875pt x 110.4125pt>
+File: pics/part2-result1.png Graphic file (type png)
+<use pics/part2-result1.png>
+Package pdftex.def Info: pics/part2-result1.png  used on input line 864.
+(pdftex.def)             Requested size: 364.19667pt x 44.07155pt.
+<pics/part2-result2.png, id=282, 901.3675pt x 109.40875pt>
+File: pics/part2-result2.png Graphic file (type png)
+<use pics/part2-result2.png>
+Package pdftex.def Info: pics/part2-result2.png  used on input line 865.
+(pdftex.def)             Requested size: 364.19667pt x 44.20679pt.
+
+
+[21 <./pics/part2-result1.png> <./pics/part2-result2.png>]
+Overfull \hbox (2.55981pt too wide) in paragraph at lines 875--879
+\T2A/cmr/m/n/14.4 ^^ed^^e8^^ff ^^e8 Selenium WebDriver ^^f1 TestNG ^^e4^^eb^^ff UI-^^f2^^e5^^f1^^f2^^e8^^f0^^ee^^e2^^e0^^ed^^e8^^ff ^^e2^^e5^^e1-^^ef^^f0^^e8^^eb^^ee^^e6^^e5^^ed^^e8^^e9.
+ []
+
+
+Overfull \hbox (4.17497pt too wide) in paragraph at lines 875--879
+\T2A/cmr/m/n/14.4 "Support"^^e8 ^^f1^^f2^^f0^^f3^^ea-^^f2^^f3-^^f0^^f3 ^^f4^^ee^^f0-^^ec^^fb ^^ed^^e0 ^^ed^^e5^^e9, ^^e8 \T2A/cmtt/m/n/14.4 HomePageNavigationTestsResult\T2A/cmr/m/n/14.4 ,
+ []
+
+
+Overfull \hbox (6.03905pt too wide) in paragraph at lines 875--879
+\T2A/cmr/m/n/14.4 ^^e2^^fb-^^ef^^ee^^eb-^^ed^^ff-^^fe-^^f9^^e8^^e9 ^^ea^^ee^^ec-^^ef^^eb^^e5^^ea^^f1-^^ed^^f3^^fe ^^ef^^f0^^ee-^^e2^^e5^^f0-^^ea^^f3 ^^e3^^eb^^e0^^e2-^^ed^^ee^^e9 ^^f1^^f2^^f0^^e0-^^ed^^e8-^^f6^^fb (^^e7^^e0-^^e3^^ee-^^eb^^ee-^^e2^^ee^^ea, ^^e2^^e5^^f0^^f5-
+ []
+
+
+Overfull \hbox (43.60101pt too wide) in paragraph at lines 881--882
+[]\T2A/cmr/m/n/14.4 ^^ef^^f0^^e8^^ec^^e5^^ed^^e5^^ed^^e8^^ff ^^ef^^e0-^^f0^^e0-^^ec^^e5^^f2-^^f0^^e8-^^e7^^ee-^^e2^^e0^^ed-^^ed^^fb^^f5 ^^f2^^e5-^^f1^^f2^^ee^^e2 ^^f1 ^^e0^^ed-^^ed^^ee-^^f2^^e0-^^f6^^e8-^^ff-^^ec^^e8 \T2A/cmtt/m/n/14.4 @ParameterizedTest
+ []
+
+
+Overfull \hbox (10.32129pt too wide) in paragraph at lines 882--883
+[]\T2A/cmr/m/n/14.4 ^^e8^^f1^^ef^^ee^^eb^^fc^^e7^^ee^^e2^^e0^^ed^^e8^^ff ^^ec^^e5-^^f2^^ee-^^e4^^ee^^e2 ^^ef^^ee^^e4-^^e3^^ee-^^f2^^ee^^e2-^^ea^^e8 ^^e8 ^^e7^^e0-^^e2^^e5^^f0-^^f8^^e5-^^ed^^e8^^ff ^^f2^^e5-^^f1^^f2^^ee^^e2 (\T2A/cmtt/m/n/14.4 @BeforeEach\T2A/cmr/m/n/14.4 ,
+ []
+
+
+
+[22]
+
+[23]
+
+[24]
+Overfull \hbox (54.8982pt too wide) in paragraph at lines 898--898
+|\T2A/cmr/bx/n/24.88 ^^cf^^f0^^e8^^eb^^ee^^e6^^e5^^ed^^e8^^e5 1. ^^c8^^f1-^^f5^^ee^^e4-^^ed^^fb^^e9 ^^ea^^ee^^e4 DateUtilsTest| 
+ []
+
+
+
+[25]
+
+[26]
+
+[27]
+Overfull \hbox (35.16673pt too wide) in paragraph at lines 1054--1054
+|\T2A/cmr/bx/n/24.88 ^^cf^^f0^^e8^^eb^^ee^^e6^^e5^^ed^^e8^^e5 2. ^^c8^^f1-^^f5^^ee^^e4-^^ed^^fb^^e9 ^^ea^^ee^^e4 DriverSetup| 
+ []
+
+
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35] (report.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: B55DD0474BEE19EDF8088D7C6C95763E;286.
+(rerunfilecheck)             Checksum: BDA9616B892B90FC95287E8D15F47E3C;5137.
  ) 
 Here is how much of TeX's memory you used:
- 19936 strings out of 468085
- 327822 string characters out of 5422978
- 842736 words of memory out of 5000000
- 48312 multiletter control sequences out of 15000+600000
- 637446 words of font info for 61 fonts, out of 8000000 for 9000
+ 21035 strings out of 468085
+ 341973 string characters out of 5422978
+ 1627736 words of memory out of 5000000
+ 48768 multiletter control sequences out of 15000+600000
+ 642241 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,483b,495s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk>
-Output written on report.pdf (4 pages, 92031 bytes).
+ 75i,11n,79p,1295b,2102s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tctt0900.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt0900.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0500.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (35 pages, 679704 bytes).
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1866 PDF objects out of 2073 (max. 8388607)
+ 640 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
