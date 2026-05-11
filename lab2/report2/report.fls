@@ -1,6 +1,6 @@
-PWD /Users/user/study/testing/testing-labs/lab2/report
+PWD /Users/user/study/testing/testing-labs/lab2/report2
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /Users/user/study/testing/testing-labs/lab2/report/report.tex
+INPUT /Users/user/study/testing/testing-labs/lab2/report2/report.tex
 OUTPUT report.log
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
@@ -262,20 +262,6 @@ INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx2488.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm2074.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1440.tfm
-INPUT ./pics/notaion.png
-INPUT ./pics/notaion.png
-INPUT ./pics/notaion.png
-INPUT ./pics/notaion.png
-INPUT ./pics/notaion.png
-INPUT ./pics/notaion.png
-INPUT ./pics/notaion.png
-INPUT ./pics/notation2.png
-INPUT ./pics/notation2.png
-INPUT ./pics/notation2.png
-INPUT ./pics/notation2.png
-INPUT ./pics/notation2.png
-INPUT ./pics/notation2.png
-INPUT ./pics/notation2.png
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
@@ -310,13 +296,6 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfon
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt1000.tfm
-INPUT ../diagram2.png
-INPUT ../diagram2.png
-INPUT ../diagram2.png
-INPUT ../diagram2.png
-INPUT ../diagram2.png
-INPUT ../diagram2.png
-INPUT ../diagram2.png
 INPUT ./pics/scheme2.png
 INPUT ./pics/scheme2.png
 INPUT ./pics/scheme2.png
@@ -325,13 +304,8 @@ INPUT ./pics/scheme2.png
 INPUT ./pics/scheme2.png
 INPUT ./pics/scheme2.png
 INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt1200.tfm
-INPUT ../diagram1.png
-INPUT ../diagram1.png
-INPUT ../diagram1.png
-INPUT ../diagram1.png
-INPUT ../diagram1.png
-INPUT ../diagram1.png
-INPUT ../diagram1.png
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm0700.tfm
+INPUT /Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt0800.tfm
 INPUT report.aux
 INPUT ./report.out
 INPUT ./report.out

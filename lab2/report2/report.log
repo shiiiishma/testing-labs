@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.9)  11 MAY 2026 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.9)  8 APR 2026 15:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/user/study/testing/testing-labs/lab2/report/report.tex
-(/Users/user/study/testing/testing-labs/lab2/report/report.tex
+**/Users/user/study/testing/testing-labs/lab2/report2/report.tex
+(/Users/user/study/testing/testing-labs/lab2/report2/report.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
@@ -937,931 +937,662 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--134
 [4]
 
 [5]
-Overfull \hbox (3.17628pt too wide) in paragraph at lines 211--216
+Overfull \hbox (3.17628pt too wide) in paragraph at lines 209--213
 \T2A/cmr/m/n/14.4 ^^ca^^e0^^f7^^e5^^f1^^f2^^e2^^e5^^ed^^ed^^ee ^^f0^^e0^^e7-^^f0^^e0-^^e1^^ee-^^f2^^e0^^ed-^^ed^^fb^^e9 ^^f2^^e5^^f1^^f2 ^^e4^^ee^^eb-^^e6^^e5^^ed ^^ee^^f5^^e2^^e0-^^f2^^fb-^^e2^^e0^^f2^^fc ^^e7^^ed^^e0-^^f7^^e8-^^f2^^e5^^eb^^fc-^^ed^^f3^^fe ^^f7^^e0^^f1^^f2^^fc
  []
 
 
 
 [6]
-
-[7]
-Overfull \hbox (0.94588pt too wide) in paragraph at lines 285--287
-[]\T2A/cmr/m/n/14.4 ^^cf^^ee^^f1^^f0^^e5^^e4^^f1^^f2^^e2^^ee^^ec ^^ef^^ee-^^f1^^eb^^e5-^^e4^^ee-^^e2^^e0-^^f2^^e5^^eb^^fc-^^ed^^ee-^^e3^^ee ^^e0^^ed^^e0-^^eb^^e8-^^e7^^e0 ^^f1^^ee-^^f1^^f2^^ee-^^ff-^^ed^^e8^^e9 ^^f3^^f1^^eb^^ee-^^e2^^e8^^e9 ^^e4^^e8^^e0-^^e3^^f0^^e0^^ec-
+Overfull \hbox (6.04167pt too wide) in paragraph at lines 233--234
+\T2A/cmr/m/n/14.4 ^^cc^^e8^^ed^^e8^^ec^^e0^^eb^^fc^^ed^^fb^^ec ^^f2^^f0^^e5-^^e1^^ee-^^e2^^e0-^^ed^^e8-^^e5^^ec ^^ff^^e2-^^eb^^ff-^^e5^^f2-^^f1^^ff ^^e2^^fb-^^ef^^ee^^eb-^^ed^^e5-^^ed^^e8^^e5 ^^ea^^e0^^e6-^^e4^^ee-^^e3^^ee ^^ee^^ef^^e5-^^f0^^e0-^^f2^^ee-^^f0^^e0 ^^ef^^f0^^ee-
  []
 
-<pics/notaion.png, id=263, 357.335pt x 299.1175pt>
-File: pics/notaion.png Graphic file (type png)
-<use pics/notaion.png>
-Package pdftex.def Info: pics/notaion.png  used on input line 295.
-(pdftex.def)             Requested size: 273.14923pt x 228.65982pt.
 
 
-[8]
-<pics/notation2.png, id=275, 366.36874pt x 385.44pt>
-File: pics/notation2.png Graphic file (type png)
-<use pics/notation2.png>
-Package pdftex.def Info: pics/notation2.png  used on input line 320.
-(pdftex.def)             Requested size: 273.14923pt x 287.38547pt.
-
-
-[9 <./pics/notaion.png>]
-
-[10 <./pics/notation2.png>]
-
-[11]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 386.
+[7]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 279.
  (/Users/user/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 399--399
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
 []|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 401--402
+Underfull \hbox (badness 1688) in paragraph at lines 292--293
 []|\T2A/cmr/m/n/10 ^^ce^^e1^^fb^^f7^^ed^^fb^^e9 ^^f1^^eb^^f3-^^f7^^e0^^e9 (^^ef^^f0^^ee-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
 []|\T2A/cmr/m/n/10 ^^ce^^e1^^fb^^f7^^ed^^fb^^e9 ^^f1^^eb^^f3-^^f7^^e0^^e9 (^^f1^^ee-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--406
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
 []|\T2A/cmr/m/n/10 ^^c3^^f0^^e0^^ed^^e8^^f6^^e0: ^^ec^^e8-^^ed^^e8-^^ec^^e0^^eb^^fc-^^ed^^ee^^e5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 []|\T2A/cmr/m/n/10 ^^ce^^f2^^f0^^e8^^f6^^e0^^f2^^e5^^eb^^fc^^ed^^fb^^e5 ^^f7^^e8^^f1-^^eb^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
 []|\T2A/cmr/m/n/10 ^^cf^^f0^^ee^^e2^^e5^^f0^^ea^^e0 ^^ee^^e1-^^f0^^e0-^^e1^^ee^^f2-^^ea^^e8
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
-\T2A/cmr/m/n/10 ^^ed^^e5^^ea^^ee^^f0-^^f0^^e5^^ea^^f2-^^ed^^ee-^^e3^^ee ^^e2^^e2^^ee-^^e4^^e0
- []
-
-<pics/scheme1.png, id=295, 656.4525pt x 1160.335pt>
+<pics/scheme1.png, id=256, 657.45625pt x 1160.335pt>
 File: pics/scheme1.png Graphic file (type png)
 <use pics/scheme1.png>
-Package pdftex.def Info: pics/scheme1.png  used on input line 422.
-(pdftex.def)             Requested size: 364.19667pt x 643.74568pt.
+Package pdftex.def Info: pics/scheme1.png  used on input line 313.
+(pdftex.def)             Requested size: 364.19667pt x 642.7719pt.
 
 
-[12]
-Overfull \hbox (23.37355pt too wide) in alignment at lines 433--444
+[8]
+Overfull \hbox (23.37355pt too wide) in alignment at lines 326--337
  [] [] [] 
  []
 
 
 
-[13 <./pics/scheme1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[9 <./pics/scheme1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []|\T2A/cmr/m/n/12 ^^ca^^eb^^e0^^f1^^f1 ^^fd^^ea-^^e2^^e8-^^e2^^e0-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--453
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []|\T2A/cmr/m/n/12 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--453
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []|\T2A/cmr/m/n/12 ^^d4^^e0^^ea^^f2^^e8^^f7^^e5^^f1^^ea^^e8^^e9 ^^f0^^e5-
  []
 
 
 
-[14]
-Overfull \hbox (2.68164pt too wide) in paragraph at lines 476--477
-[]\T2A/cmr/m/n/14.4 ^^cf^^e5^^f0^^e5^^f5^^ee^^e4 ^^ec^^e5^^e6-^^e4^^f3 ^^ed^^e0^^e8-^^ec^^e5^^ed^^fc-^^f8^^e8^^ec ^^f7^^bc^^f2-^^ed^^fb^^ec ^^f1^^ee-^^f1^^f2^^e0^^e2-^^ed^^fb^^ec ^^e8 ^^ed^^e0^^e8-^^ec^^e5^^ed^^fc-^^f8^^e8^^ec ^^ed^^e5^^f7^^bc^^f2-
- []
+[10]
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
-[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 488--488
-[]|\T2A/cmr/bx/n/10 ^^d4^^e0^^ea^^f2^^e8^^f7^^e5^^f1^^ea^^e8^^e9 ^^f0^^e5-
- []
-
-
-
-[15]
-<../diagram2.png, id=341, 773.89125pt x 1095.09125pt>
-File: ../diagram2.png Graphic file (type png)
-<use ../diagram2.png>
-Package pdftex.def Info: ../diagram2.png  used on input line 570.
-(pdftex.def)             Requested size: 273.14923pt x 386.51265pt.
-
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 629--629
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 469--469
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 22: \T2A/cmtt/m/n/10 ^^ed^^e5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 630--630
+Underfull \hbox (badness 10000) in paragraph at lines 469--469
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 22: \T2A/cmtt/m/n/10 ^^ed^^e5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--636
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 23:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 637--637
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 23:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 643--643
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 24: \T2A/cmtt/m/n/10 ^^ed^^e5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 643--643
-\T2A/cmtt/m/n/10 ^^ef^^f0^^ee^^f1^^f2^^ee^^e5 \T2A/cmr/m/n/10 (^^f7^^bc^^f2-^^ed^^ee^^e5
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 644--644
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 24: \T2A/cmtt/m/n/10 ^^ed^^e5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--650
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 25: \T2A/cmtt/m/n/10 ^^ed^^e5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--650
-\T2A/cmtt/m/n/10 ^^ef^^f0^^ee^^f1^^f2^^ee^^e5 \T2A/cmr/m/n/10 (^^e4^^e5-^^eb^^e8-^^f2^^e5^^eb^^fc
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 651--651
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 25: \T2A/cmtt/m/n/10 ^^ed^^e5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--657
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 26:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 658--658
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
 []|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 26:
  []
 
 
-Overfull \hbox (14.29141pt too wide) in paragraph at lines 615--662
+Overfull \hbox (14.29141pt too wide) in paragraph at lines 463--480
  [][] 
  []
 
 
 
-[17 <../diagram2.png>]
+[12]
 
-[18]
+[13]
 
-[19]
+[14]
 
-[20]
+[15]
 
-[21]
-
-[22]
-Overfull \hbox (3.96982pt too wide) in paragraph at lines 889--890
-\T2A/cmr/bx/n/14.4 ^^d2^^f0^^e5^^e1^^f3^^e5^^f2^^f1^^ff: \T2A/cmr/m/n/14.4 ^^ed^^e0^^e9-^^f2^^e8 ^^ea^^ee-^^eb^^e8-^^f7^^e5-^^f1^^f2^^e2^^ee ^^e2^^f5^^ee^^e6-^^e4^^e5-^^ed^^e8^^e9 \T2A/cmtt/m/n/14.4 count \T2A/cmr/m/n/14.4 ^^ef^^ee^^e4-^^f1^^f2^^f0^^ee-^^ea^^e8 \T2A/cmtt/m/n/14.4 substr \T2A/cmr/m/n/14.4 ^^e2 ^^f1^^f2^^f0^^ee-
+[16]
+Underfull \hbox (badness 3919) in paragraph at lines 766--766
+[]|\T2A/cmr/m/n/10 ^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0 ^^e2^^f1^^f2^^f0^^e5-^^f7^^e0-^^e5^^f2-^^f1^^ff ^^e4^^e2^^e0-
  []
 
 
-Overfull \hbox (15.29346pt too wide) in paragraph at lines 894--895
-\OT1/cmr/m/n/14.4 1000$ \T2A/cmr/m/n/14.4 ^^e3^^e5-^^ed^^e5-^^f0^^e8-^^f0^^f3-^^e5^^f2-^^f1^^ff ^^e8^^f1-^^ea^^eb^^fe-^^f7^^e5-^^ed^^e8^^e5 \T2A/cmtt/m/n/14.4 "^^d1^^eb^^e8^^f8^^ea^^ee^^ec ^^e4^^eb^^e8^^ed^^ed^^e0^^ff ^^f1^^f2^^f0^^ee^^ea^^e0 ^^e2 ^^ec^^e0^^f1^^f1^^e8^^e2^^e5"\T2A/cmr/m/n/14.4 . 
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+\T2A/cmr/m/n/10 ^^f7^^e5-^^ed^^e8^^e5. ^^c7^^e0-^^e2^^e5^^f0-^^f8^^e5-^^ed^^e8^^e5 ^^f0^^e0-^^e1^^ee-^^f2^^fb
  []
 
 
-Underfull \hbox (badness 7291) in paragraph at lines 942--942
-[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9 ^^f0^^e5-^^e7^^f3^^eb^^fc-
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+[]|\T2A/cmr/m/n/10 ^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0 ^^ed^^e5 ^^e2^^f1^^f2^^f0^^e5-^^f7^^e0-^^e5^^f2-^^f1^^ff.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmtt/m/n/10 arr =
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+\T2A/cmr/m/n/10 ^^f7^^e5-^^ed^^e8^^e5. ^^c7^^e0-^^e2^^e5^^f0-^^f8^^e5-^^ed^^e8^^e5 ^^f0^^e0-^^e1^^ee-^^f2^^fb
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmtt/m/n/10 arr =
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+\T2A/cmr/m/n/10 ^^f7^^e5-^^ed^^e8^^e5. ^^c7^^e0-^^e2^^e5^^f0-^^f8^^e5-^^ed^^e8^^e5 ^^f0^^e0-^^e1^^ee-^^f2^^fb
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmtt/m/n/10 arr =
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+[]|\T2A/cmr/m/n/10 Error: "^^d1^^eb^^e8^^f8-^^ea^^ee^^ec ^^e4^^eb^^e8^^ed-^^ed^^e0^^ff
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmtt/m/n/10 Error: "^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0 ^^ed^^e5
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+\T2A/cmr/m/n/10 ^^f7^^e5-^^ed^^e8^^e5. ^^c7^^e0-^^e2^^e5^^f0-^^f8^^e5-^^ed^^e8^^e5 ^^f0^^e0-^^e1^^ee-^^f2^^fb
  []
 
-
-Underfull \hbox (badness 1688) in paragraph at lines 942--942
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0 ^^e2^^e2^^ee-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmtt/m/n/10 Error: "^^cc^^e0^^f1^^f1^^e8^^e2
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 942--942
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0 ^^e2^^e2^^ee-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmtt/m/n/10 Error: "^^cc^^e0^^f1^^f1^^e8^^e2
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 942--942
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0 ^^e2^^e2^^ee-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmr/m/n/10 ^^cd^^e0^^f0^^f3^^f8^^e5^^ed^^ee ^^ee^^e3^^f0^^e0-^^ed^^e8-^^f7^^e5-^^ed^^e8^^e5
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmtt/m/n/10 Error: "^^d1^^eb^^e8^^f8^^ea^^ee^^ec
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-\T2A/cmtt/m/n/10 ^^e4^^eb^^e8^^ed^^ed^^e0^^ff ^^f1^^f2^^f0^^ee^^ea^^e0 ^^e2
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 942--942
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0 ^^e2^^e2^^ee-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 942--942
-[]|\T2A/cmr/m/n/10 ^^cd^^e0^^f0^^f3^^f8^^e5^^ed^^ee ^^ee^^e3^^f0^^e0-^^ed^^e8-^^f7^^e5-^^ed^^e8^^e5
- []
-
-<pics/scheme2.png, id=417, 394.47375pt x 712.6625pt>
+<pics/scheme2.png, id=358, 394.47375pt x 712.6625pt>
 File: pics/scheme2.png Graphic file (type png)
 <use pics/scheme2.png>
-Package pdftex.def Info: pics/scheme2.png  used on input line 947.
+Package pdftex.def Info: pics/scheme2.png  used on input line 771.
 (pdftex.def)             Requested size: 364.19667pt x 657.96283pt.
 
 
-[23]
-Underfull \hbox (badness 1147) in paragraph at lines 973--973
+[17]
+Underfull \hbox (badness 1147) in paragraph at lines 799--799
 []|\T2A/cmr/m/n/12 ^^cd^^e5^^ef^^f3^^f1^^f2^^e0^^ff ^^ef^^ee^^e4-^^f1^^f2^^f0^^ee-^^ea^^e0, ^^e2^^f1^^f2^^f0^^e5-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 976--976
+Underfull \hbox (badness 10000) in paragraph at lines 802--802
 []|\T2A/cmr/m/n/12 ^^cd^^e5^^ef^^f3^^f1^^f2^^e0^^ff ^^ef^^ee^^e4-^^f1^^f2^^f0^^ee-^^ea^^e0, ^^ed^^e5
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 977--977
-[]|\T2A/cmr/m/n/12 ^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0 ^^e4^^eb^^e8-^^ed^^ee^^e9 $\OML/cmm/m/it/12 > \OT1/cmr/m/n/12 1000$
+Underfull \hbox (badness 2351) in paragraph at lines 803--803
+[]|\T2A/cmr/m/n/12 ^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0 ^^e4^^eb^^e8-^^ed^^ee^^e9 > 1000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 979--979
+Underfull \hbox (badness 10000) in paragraph at lines 805--805
 []|\T2A/cmr/m/n/12 ^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0 ^^e4^^eb^^e8-^^ed^^ee^^e9 ^^f0^^ee^^e2-^^ed^^ee
  []
 
 
+Overfull \hbox (9.14717pt too wide) in alignment at lines 785--806
+ [] [] [] 
+ []
 
-[24 <./pics/scheme2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 990--990
+
+
+[18 <./pics/scheme2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 812--812
 []|\T2A/cmr/m/n/12 ^^d4^^e0^^ea^^f2^^e8^^f7^^e5^^f1^^ea^^e8^^e9
  []
 
 
-Overfull \hbox (10.34401pt too wide) in paragraph at lines 990--990
-[]|\T2A/cmr/m/n/12 ^^d0^^e5^^e7^^f3^^eb^^fc^^f2^^e0^^f2| 
+Underfull \hbox (badness 10000) in paragraph at lines 818--818
+[]|\T2A/cmr/m/n/12 substr ^^e4^^eb.
  []
 
 
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 996--996
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Overfull \hbox (21.69789pt too wide) in paragraph at lines 998--998
-[]|\T2A/cmtt/m/n/12 {"hello  "world  "hi"}| 
- []
-
-
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1002--1002
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1008--1008
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1014--1014
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1020--1020
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
-[]|\T2A/cmtt/m/n/12 substr \T2A/cmr/m/n/12 ^^e4^^eb.
- []
-
-
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1026--1026
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 819--819
 []|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+Underfull \hbox (badness 10000) in paragraph at lines 819--819
 []|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1032--1032
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1036--1036
+Underfull \hbox (badness 10000) in paragraph at lines 820--820
 []|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1036--1036
+Underfull \hbox (badness 10000) in paragraph at lines 820--820
 \T2A/cmr/m/n/12 ^^f1^^e8^^e2 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1037
+Underfull \hbox (badness 10000) in paragraph at lines 820--820
 []|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1037
+Underfull \hbox (badness 10000) in paragraph at lines 820--820
 \T2A/cmr/m/n/12 ^^f1^^e8^^e2 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1038--1038
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
+Underfull \hbox (badness 10000) in paragraph at lines 823--823
+[]|\T2A/cmr/m/n/12 substr ^^e4^^eb.
  []
 
 
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1044--1044
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1050--1050
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1053--1053
-[]|\T2A/cmtt/m/n/12 substr \T2A/cmr/m/n/12 ^^e4^^eb.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1054
+Underfull \hbox (badness 10000) in paragraph at lines 823--823
 []|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^ee^^e4-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1054
+Underfull \hbox (badness 10000) in paragraph at lines 823--823
 \T2A/cmr/m/n/12 ^^f1^^f2^^f0^^ee-^^ea^^e0 ^^f1^^eb^^e8^^f8-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
+Underfull \hbox (badness 10000) in paragraph at lines 823--823
 []|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^ee^^e4-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1055
+Underfull \hbox (badness 10000) in paragraph at lines 823--823
 \T2A/cmr/m/n/12 ^^f1^^f2^^f0^^ee-^^ea^^e0 ^^f1^^eb^^e8^^f8-
  []
 
 
-Overfull \hbox (3.65262pt too wide) in paragraph at lines 1056--1056
-[]|\T2A/cmr/m/n/12 ^^cf^^f0^^ee^^e9^^e4^^e5^^ed| 
- []
-
-
-Overfull \hbox (15.41516pt too wide) in alignment at lines 986--1057
+Overfull \hbox (43.5017pt too wide) in alignment at lines 809--824
  [] [] [] [] [] [] 
  []
 
 
 
-[25]
-LaTeX Font Info:    Font shape `T2A/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T2A/cmtt/m/n' tried instead on input line 1079.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
-[]|\T2A/cmr/bx/n/10 ^^d4^^e0^^ea^^f2^^e8^^f7^^e5^^f1^^ea^^e8^^e9
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 843--843
+[]|\T2A/cmr/m/n/12 ^^d4^^e0^^ea^^f2^^e8^^f7^^e5^^f1^^ea^^e8^^e9
  []
 
 
-Overfull \hbox (8.64168pt too wide) in paragraph at lines 1079--1080
-[]|\T2A/cmr/bx/n/10 ^^d0^^e5^^e7^^f3^^eb^^fc^^f2^^e0^^f2| 
+Underfull \hbox (badness 10000) in paragraph at lines 844--844
+[]|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1084--1084
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-^^f1^^e8^^e2
+Underfull \hbox (badness 10000) in paragraph at lines 844--844
+[]|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1085--1085
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-^^f1^^e8^^e2
+Underfull \hbox (badness 10000) in paragraph at lines 847--847
+[]|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1105--1105
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-^^f1^^e8^^e2
+Underfull \hbox (badness 10000) in paragraph at lines 847--847
+\T2A/cmr/m/n/12 ^^f1^^e8^^e2 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1106--1106
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-^^f1^^e8^^e2
+Underfull \hbox (badness 10000) in paragraph at lines 847--847
+[]|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1126--1126
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^f1^^f2^^f0^^ee-^^ea^^e0
+Underfull \hbox (badness 10000) in paragraph at lines 847--847
+\T2A/cmr/m/n/12 ^^f1^^e8^^e2 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1127--1127
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^f1^^f2^^f0^^ee-^^ea^^e0
+Underfull \hbox (badness 7486) in paragraph at lines 849--849
+[]|\T2A/cmr/m/n/12 count = 1000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1133--1133
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^f3-^^f1^^f2^^e0^^ff
+Underfull \hbox (badness 10000) in paragraph at lines 853--853
+[]|\T2A/cmr/m/n/12 substr ^^e4^^eb.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1134--1134
-[]|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^f3-^^f1^^f2^^e0^^ff
+Underfull \hbox (badness 10000) in paragraph at lines 854--854
+[]|\T2A/cmr/m/n/12 substr ^^e4^^eb.
  []
 
 
-Overfull \hbox (13.66559pt too wide) in paragraph at lines 1077--1173
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 854--854
+[]|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^ee^^e4-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--854
+\T2A/cmr/m/n/12 ^^f1^^f2^^f0^^ee-^^ea^^e0 ^^f1^^eb^^e8^^f8-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--854
+[]|\T2A/cmr/m/n/12 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^ee^^e4-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--854
+\T2A/cmr/m/n/12 ^^f1^^f2^^f0^^ee-^^ea^^e0 ^^f1^^eb^^e8^^f8-
+ []
+
+
+Overfull \hbox (29.27531pt too wide) in alignment at lines 840--857
+ [] [] [] [] [] [] 
  []
 
 
 
-[26]
-Overfull \hbox (17.78238pt too wide) in paragraph at lines 1195--1196
-[]\T2A/cmr/m/n/14.4 ^^cf^^f0^^ee^^e3^^f0^^e0^^ec^^ec^^e0 ^^e3^^e5-^^ed^^e5-^^f0^^e8-^^f0^^f3-^^e5^^f2 ^^e8^^f1-^^ea^^eb^^fe-^^f7^^e5-^^ed^^e8^^e5 ^^f1 ^^f1^^ee-^^ee^^e1-^^f9^^e5-^^ed^^e8-^^e5^^ec \T2A/cmtt/m/n/14.4 "^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0 ^^ed^^e5 ^^ec^^ee^^e6^^e5^^f2
- []
+[20]
 
-
-Overfull \hbox (10.47401pt too wide) in paragraph at lines 1196--1197
-[]\T2A/cmr/m/n/14.4 ^^cf^^f0^^ee^^e3^^f0^^e0^^ec^^ec^^e0 ^^e3^^e5-^^ed^^e5-^^f0^^e8-^^f0^^f3-^^e5^^f2 ^^e8^^f1-^^ea^^eb^^fe-^^f7^^e5-^^ed^^e8^^e5 ^^f1 ^^f1^^ee-^^ee^^e1-^^f9^^e5-^^ed^^e8-^^e5^^ec \T2A/cmtt/m/n/14.4 "^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0 ^^f1^^eb^^e8^^f8^^ea^^ee^^ec
- []
-
-<../diagram1.png, id=451, 845.1575pt x 1146.2825pt>
-File: ../diagram1.png Graphic file (type png)
-<use ../diagram1.png>
-Package pdftex.def Info: ../diagram1.png  used on input line 1219.
-(pdftex.def)             Requested size: 364.19667pt x 493.95882pt.
-
-
-[27]
-
-[28 <../diagram1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1264--1264
-[]|\T2A/cmr/bx/n/10 ^^c2^^f5^^ee^^e4^^ed^^fb^^e5 ^^e4^^e0^^ed-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1264--1264
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
 []|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4^^e0^^e5^^ec^^fb^^e9
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1266--1266
-[]|\T2A/cmtt/m/n/10 arr = {}, substr
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 21:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1266--1266
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+\T2A/cmr/m/n/10 ^^ee^^f8^^e8^^e1-^^ea^^e0 <<^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1266--1266
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 21:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
-[]|\T2A/cmtt/m/n/10 arr ^^f0^^e0^^e7^^ec^^e5^^f0^^e0 101,
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+\T2A/cmr/m/n/10 ^^ee^^f8^^e8^^e1-^^ea^^e0 <<^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 22:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
-\T2A/cmtt/m/n/10 "^^cc^^e0^^f1^^f1^^e8^^e2 ^^f1^^eb^^e8^^f8^^ea^^ee^^ec
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+\T2A/cmr/m/n/10 ^^ee^^f8^^e8^^e1-^^ea^^e0 <<^^ef^^f3-^^f1^^f2^^e0^^ff
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 22:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
-\T2A/cmtt/m/n/10 "^^cc^^e0^^f1^^f1^^e8^^e2 ^^f1^^eb^^e8^^f8^^ea^^ee^^ec
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 23:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
-[]|\T2A/cmtt/m/n/10 arr = {"hello"},
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+\T2A/cmr/m/n/10 ^^ee^^f8^^e8^^e1-^^ea^^e0 <<arr >
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 23:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
-\T2A/cmtt/m/n/10 "^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 24:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
-\T2A/cmtt/m/n/10 ^^ed^^e5 ^^ec^^ee^^e6^^e5^^f2 ^^e1^^fb^^f2^^fc
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 24:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 {"hello str ^^e4^^eb.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
-\T2A/cmtt/m/n/10 "^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 25:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
-\T2A/cmtt/m/n/10 ^^ed^^e5 ^^ec^^ee^^e6^^e5^^f2 ^^e1^^fb^^f2^^fc
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 25:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1272--1272
-[]|\T2A/cmtt/m/n/10 arr = {"test"},
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 26:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1272--1272
-\T2A/cmtt/m/n/10 substr ^^e4^^eb^^e8^^ed^^fb
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 26:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1272--1272
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 27:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1272--1272
-\T2A/cmtt/m/n/10 "^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+[]|\T2A/cmr/m/n/10 ^^d1^^eb^^e5^^e4^^f1^^f2^^e2^^e8^^e5 27:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1272--1272
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1272--1272
-\T2A/cmtt/m/n/10 "^^cf^^ee^^e4^^f1^^f2^^f0^^ee^^ea^^e0
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-[]|\T2A/cmtt/m/n/10 arr =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-\T2A/cmtt/m/n/10 {"a"*1001},
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-\T2A/cmtt/m/n/10 "^^d1^^eb^^e8^^f8^^ea^^ee^^ec
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-\T2A/cmtt/m/n/10 ^^e4^^eb^^e8^^ed^^ed^^e0^^ff ^^f1^^f2^^f0^^ee^^ea^^e0 ^^e2
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-[]|\T2A/cmr/m/n/10 ^^c8^^f1^^ea^^eb^^fe^^f7^^e5^^ed^^e8^^e5:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-\T2A/cmtt/m/n/10 "^^d1^^eb^^e8^^f8^^ea^^ee^^ec
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
-\T2A/cmtt/m/n/10 ^^e4^^eb^^e8^^ed^^ed^^e0^^ff ^^f1^^f2^^f0^^ee^^ea^^e0 ^^e2
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1276--1276
-[]|\T2A/cmtt/m/n/10 arr =
- []
-
-
-Overfull \hbox (0.72067pt too wide) in paragraph at lines 1276--1276
-\T2A/cmtt/m/n/10 {"hello "world"},
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1276--1276
-[]|\T2A/cmr/m/n/10 ^^c2^^ee^^e7^^e2^^f0^^e0^^f2 \T2A/cmtt/m/n/10 count =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1276--1276
-[]|\T2A/cmr/m/n/10 ^^c2^^ee^^e7^^e2^^f0^^e0^^f2 \T2A/cmtt/m/n/10 count =
- []
-
-
-Overfull \hbox (21.30753pt too wide) in paragraph at lines 1262--1279
- [][] 
- []
-
-
-Overfull \hbox (11.64194pt too wide) in paragraph at lines 1287--1291
+[22]
+Overfull \hbox (11.64194pt too wide) in paragraph at lines 963--967
 \T2A/cmr/m/n/14.4 ^^e4^^ee-^^ef^^f3-^^f1^^f2^^e8-^^ec^^fb^^e5 ^^e8 ^^ed^^e5^^e4^^ee-^^ef^^f3-^^f1^^f2^^e8-^^ec^^fb^^e5 ^^ea^^eb^^e0^^f1-^^f1^^fb ^^e4^^eb^^ff ^^e2^^f5^^ee^^e4-^^ed^^fb^^f5 ^^ef^^e0-^^f0^^e0-^^ec^^e5^^f2-^^f0^^ee^^e2 \T2A/cmtt/m/n/14.4 arr \T2A/cmr/m/n/14.4 ^^e8 \T2A/cmtt/m/n/14.4 substr\T2A/cmr/m/n/14.4 .
  []
 
 
-Overfull \hbox (1.46126pt too wide) in paragraph at lines 1287--1291
+Overfull \hbox (1.46126pt too wide) in paragraph at lines 963--967
 \T2A/cmr/m/n/14.4 ^^c0^^ed^^e0-^^eb^^e8^^e7 ^^e3^^f0^^e0-^^ed^^e8^^f7-^^ed^^fb^^f5 ^^f3^^f1^^eb^^ee-^^e2^^e8^^e9 ^^e2^^fb-^^ff^^e2^^e8^^eb ^^ea^^ee^^f0-^^f0^^e5^^ea^^f2-^^ed^^ee^^f1^^f2^^fc ^^ee^^e1-^^f0^^e0-^^e1^^ee^^f2-^^ea^^e8 ^^ea^^f0^^e0^^e9-^^ed^^e8^^f5 ^^e7^^ed^^e0-
  []
 
 
 
-[29]
-
-[30]
-Overfull \hbox (2.17026pt too wide) in paragraph at lines 1358--1361
-[]\T2A/cmr/m/n/14.4 ^^c4^^eb^^ff ^^ef^^ee-^^ea^^f0^^fb-^^f2^^e8^^ff ^^e2^^f1^^e5^^f5 ^^ee^^ef^^e5-^^f0^^e0-^^f2^^ee-^^f0^^ee^^e2 ^^e4^^ee-^^f1^^f2^^e0-^^f2^^ee^^f7-^^ed^^ee ^^ee^^e4-^^ed^^ee-^^e3^^ee ^^f2^^e5-^^f1^^f2^^e0, ^^ea^^ee-^^f2^^ee-^^f0^^fb^^e9 ^^ef^^f0^^ee^^e9-
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1042
+[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4. ^^f0^^e5-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1371--1371
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1371--1371
-\T2A/cmr/bx/n/10 ^^f0^^e5-^^e7^^f3^^eb^^fc-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1371--1371
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/bx/n/10 ^^d4^^e0^^ea^^f2.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1371--1371
-\T2A/cmr/bx/n/10 ^^f0^^e5-^^e7^^f3^^eb^^fc-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
-[]|\T2A/cmr/bx/n/10 ^^ce^^e6^^e8^^e4.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
-[]|\T2A/cmr/bx/n/10 ^^d4^^e0^^ea^^f2.
- []
-
-
-Overfull \hbox (55.95657pt too wide) in paragraph at lines 1405--1405
+Overfull \hbox (55.95657pt too wide) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 {"hello "world "hello"}| 
  []
 
 
-Overfull \hbox (12.55054pt too wide) in paragraph at lines 1405--1405
+Overfull \hbox (12.55054pt too wide) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 {"cat "dog"}| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ef^^f3-^^f1^^f2^^e0^^ff
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ef^^ee^^e4-^^f1^^f2^^f0^^ee-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ef^^f3-^^f1^^f2^^e0^^ff
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ef^^ee^^e4-^^f1^^f2^^f0^^ee-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ef^^ee^^e4-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^f2^^f0^^ee-^^ea^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^ef^^ee^^e4-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^f2^^f0^^ee-^^ea^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Overfull \hbox (0.97003pt too wide) in paragraph at lines 1405--1405
+Overfull \hbox (0.97003pt too wide) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 {"hello str
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^f2^^f0^^ee-^^ea^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^f2^^f0^^ee-^^ea^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
@@ -1869,279 +1600,274 @@ Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-
-[31]
-Overfull \hbox (1.95564pt too wide) in paragraph at lines 1443--1443
+Overfull \hbox (1.95564pt too wide) in paragraph at lines 1090--1090
 []|\T2A/cmr/m/n/10 {"hello "world"}| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ec^^e0^^f1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^f3-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^f3-
  []
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/bx/n/10 ^^ce^^e6.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/bx/n/10 ^^d4^^e0^^ea^^f2.
  []
 
 
-Overfull \hbox (55.95657pt too wide) in paragraph at lines 1484--1484
+Overfull \hbox (55.95657pt too wide) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 {"hello "world "hello"}| 
  []
 
 
-Overfull \hbox (12.55054pt too wide) in paragraph at lines 1484--1484
+Overfull \hbox (12.55054pt too wide) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 {"cat "dog"}| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ef^^f3-^^f1^^f2^^e0^^ff
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ef^^ee^^e4-^^f1^^f2^^f0^^ee-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ef^^f3-^^f1^^f2^^e0^^ff
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ef^^ee^^e4-^^f1^^f2^^f0^^ee-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ec^^e0^^f1-^^f1^^e8^^e2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ef^^ee^^e4-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^f2^^f0^^ee-^^ea^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^ef^^ee^^e4-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^f2^^f0^^ee-^^ea^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Overfull \hbox (0.97003pt too wide) in paragraph at lines 1484--1484
+Overfull \hbox (0.97003pt too wide) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 {"hello str
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^f2^^f0^^ee-^^ea^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^f2^^f0^^ee-^^ea^^e0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1120
 \T2A/cmr/m/n/10 ^^f1^^eb^^e8^^f8-^^ea^^ee^^ec
  []
 
 
-Overfull \hbox (37.20395pt too wide) in paragraph at lines 1517--1517
+
+[24]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (37.20395pt too wide) in paragraph at lines 1151--1151
 []|\T2A/cmr/m/n/10 {"hello "world "hello"}| 
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 1517--1517
+Underfull \hbox (badness 2913) in paragraph at lines 1151--1151
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^f3-
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 1517--1517
+Underfull \hbox (badness 2913) in paragraph at lines 1151--1151
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0: ^^ef^^f3-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1517--1517
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1151
 []|\T2A/cmr/m/n/10 substr ^^e4^^eb.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1517--1517
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1151
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1517--1517
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1151
 []|\T2A/cmr/m/n/10 ^^ce^^f8^^e8^^e1^^ea^^e0:
  []
 
 
 
-[33]
-Overfull \hbox (12.91127pt too wide) in paragraph at lines 1528--1529
-\T2A/cmr/m/n/14.4 ^^f1^^ee^^e2-^^ef^^e0-^^e4^^e5-^^ed^^e8^^e9. ^^d2^^f0^^e5-^^f2^^e8^^e9 ^^f2^^e5^^f1^^f2 ^^f1 ^^ef^^f3-^^f1^^f2^^fb^^ec ^^ec^^e0^^f1-^^f1^^e8-^^e2^^ee^^ec \T2A/cmtt/m/n/14.4 arr = {} \T2A/cmr/m/n/14.4 ^^ef^^f0^^ee-^^e2^^e5-^^f0^^e8^^eb C1=^^e8^^f1^^f2^^e8^^ed^^e0
- []
+[25]
 
+[26]
 
+[27]
 
-[34]
-Overfull \hbox (25.28703pt too wide) in paragraph at lines 1530--1531
-\T2A/cmr/m/n/14.4 C2. ^^d2^^e5^^f1^^f2 ^^f1 ^^ea^^ee^^f0-^^f0^^e5^^ea^^f2-^^ed^^fb-^^ec^^e8 ^^e2^^f5^^ee^^e4-^^ed^^fb-^^ec^^e8 ^^e4^^e0^^ed-^^ed^^fb-^^ec^^e8 ^^ef^^f0^^ee-^^e2^^e5-^^f0^^e8^^eb ^^ea^^ee^^ec-^^e1^^e8-^^ed^^e0-^^f6^^e8^^fe C1=^^eb^^ee^^e6^^fc,
- []
+[28]
 
-
-
-[35]
-
-[36]
-
-[37] (report.aux)
+[29] (report.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 98F7476A80D0B3EC2FC1865E9B47F53E;11582.
+(rerunfilecheck)             Checksum: 415959C92B35766BED304F19DF3CF19C;11704.
  ) 
 Here is how much of TeX's memory you used:
- 20329 strings out of 468085
- 333212 string characters out of 5422978
- 872736 words of memory out of 5000000
- 48483 multiletter control sequences out of 15000+600000
- 644981 words of font info for 86 fonts, out of 8000000 for 9000
+ 20259 strings out of 468085
+ 332179 string characters out of 5422978
+ 877736 words of memory out of 5000000
+ 48451 multiletter control sequences out of 15000+600000
+ 646097 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1689b,663s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,632b,663s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2488.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk> </Users/user/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (37 pages, 951939 bytes).
+Output written on report.pdf (29 pages, 504781 bytes).
 PDF statistics:
- 1272 PDF objects out of 1440 (max. 8388607)
- 215 named destinations out of 1000 (max. 500000)
- 367 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1104 PDF objects out of 1200 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
+ 347 words of extra memory for PDF output out of 10000 (max. 10000000)
 
